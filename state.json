@@ -1,40 +1,40 @@
 ﻿{
-    "published_at":  "2026-07-09T03:19:22.9814001-06:00",
-    "captured_at":  "2026-07-09T03:19:22.8671854-06:00",
+    "published_at":  "2026-07-09T03:20:07.9750441-06:00",
+    "captured_at":  "2026-07-09T03:20:07.7559527-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4111.035,
+    "price":  4110.38,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.52,
+                                      "delta":  -0.09,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.13,
-                                      "direction":  "UP"
+                                      "delta":  -0.735,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.54,
+                                     "delta":  -1.31,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  1.835,
+                                     "delta":  1.565,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 59",
+    "owner_m5":  "LONG 58",
     "sequence":  "WAIT MICRO BREAK",
     "action":  "M1 REALIGN LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "59.5",
-    "stoch_kd":  "106/151.4",
-    "macd_hist":  "0.508",
+    "rsi":  "54.2",
+    "stoch_kd":  "164.4/170.9",
+    "macd_hist":  "0.4318",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  1,
                            "context_count":  0,
-                           "historic_count":  17,
+                           "historic_count":  16,
                            "near":  [
                                         {
                                             "id":  "gPer3r",
@@ -1057,16 +1057,7 @@
                                          "available_methods":  [
 
                                                                ],
-                                         "points":  [
-                                                        {
-                                                            "price":  4090.02,
-                                                            "time":  1783556100
-                                                        },
-                                                        {
-                                                            "price":  4065.6872186902397,
-                                                            "time":  1783581900
-                                                        }
-                                                    ],
+                                         "points_error":  "Value is null",
                                          "properties":  {
                                                             "linecolor":  "rgba(255, 255, 255, 1)",
                                                             "textcolor":  "rgba(255, 255, 255, 1)",
