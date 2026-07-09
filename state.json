@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T17:34:04.4064845-06:00",
-    "captured_at":  "2026-07-09T17:34:04.2702630-06:00",
+    "published_at":  "2026-07-09T17:34:46.7696547-06:00",
+    "captured_at":  "2026-07-09T17:34:46.6526230-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4122.305,
+    "price":  4121.245,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.1,
-                                      "direction":  "UP"
+                                      "delta":  -0.04,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.185,
-                                      "direction":  "UP"
+                                      "delta":  -0.44,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.02,
+                                     "delta":  -0.88,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -0.88,
+                                     "delta":  -0.995,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  4.22,
+                                            "distance":  3.16,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
