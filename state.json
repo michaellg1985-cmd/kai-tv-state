@@ -1,39 +1,39 @@
 ﻿{
-    "published_at":  "2026-07-08T23:49:38.3859848-06:00",
-    "captured_at":  "2026-07-08T23:49:38.0890993-06:00",
+    "published_at":  "2026-07-08T23:50:34.8774195-06:00",
+    "captured_at":  "2026-07-08T23:50:34.5619856-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "5",
-    "price":  4077.72,
+    "price":  4079.915,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  1.21,
+                                      "delta":  0.735,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  1.635,
-                                      "direction":  "UP"
+                                      "delta":  -0.16,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  2.205,
+                                     "delta":  2.2,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  1.925,
+                                     "delta":  4.715,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 74",
+    "owner_m5":  "LONG 78",
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "63.7",
-    "stoch_kd":  "120/135.4",
-    "macd_hist":  "1.5023",
+    "rsi":  "65.6",
+    "stoch_kd":  "110.7/122.1",
+    "macd_hist":  "1.6464",
     "volume_state":  "BAJO AVG",
     "drawings_count":  19,
     "visual_context":  {
                            "near_count":  2,
-                           "context_count":  3,
+                           "context_count":  2,
                            "historic_count":  14,
                            "near":  [
                                         {
@@ -84,7 +84,7 @@
                                                "id":  "CkIExi",
                                                "type":  "vertical_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  10.222,
+                                               "distance":  12.417,
                                                "min_price":  4067.498,
                                                "max_price":  4067.498,
                                                "mid_price":  4067.498,
@@ -101,7 +101,7 @@
                                                "id":  "bAAKkF",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  5.283,
+                                               "distance":  7.478,
                                                "min_price":  4048.104,
                                                "max_price":  4072.437,
                                                "mid_price":  4060.27,
@@ -115,27 +115,6 @@
                                                               {
                                                                   "price":  4048.1040626564404,
                                                                   "time":  1783575900
-                                                              }
-                                                          ]
-                                           },
-                                           {
-                                               "id":  "xgCBmw",
-                                               "type":  "short_position",
-                                               "bucket":  "CONTEXTO",
-                                               "distance":  6.581,
-                                               "min_price":  4071.139,
-                                               "max_price":  4071.139,
-                                               "mid_price":  4071.139,
-                                               "text":  null,
-                                               "visible":  true,
-                                               "points":  [
-                                                              {
-                                                                  "price":  4071.139,
-                                                                  "time":  1783576500
-                                                              },
-                                                              {
-                                                                  "price":  4071.139,
-                                                                  "time":  1783593000
                                                               }
                                                           ]
                                            }
@@ -1229,95 +1208,6 @@
                                                         },
                                          "selectable":  true,
                                          "name":  "trend_line"
-                                     },
-                                     {
-                                         "success":  true,
-                                         "entity_id":  "xgCBmw",
-                                         "available_methods":  [
-
-                                                               ],
-                                         "points":  [
-                                                        {
-                                                            "price":  4071.139,
-                                                            "time":  1783576500
-                                                        },
-                                                        {
-                                                            "price":  4071.139,
-                                                            "time":  1783593000
-                                                        }
-                                                    ],
-                                         "properties":  {
-                                                            "linecolor":  "#808080",
-                                                            "textcolor":  "#ffffff",
-                                                            "stopBackground":  "rgba(242, 54, 69, 0.2)",
-                                                            "profitBackground":  "rgba(8, 153, 129, 0.2)",
-                                                            "stopBackgroundTransparency":  80,
-                                                            "profitBackgroundTransparency":  80,
-                                                            "linewidth":  1,
-                                                            "fontsize":  12,
-                                                            "compact":  false,
-                                                            "riskDisplayMode":  "percents",
-                                                            "accountSize":  1000,
-                                                            "lotSize":  1,
-                                                            "risk":  25,
-                                                            "leverage":  10000,
-                                                            "alwaysShowStats":  false,
-                                                            "showPriceLabels":  true,
-                                                            "qtyPrecision":  "default",
-                                                            "currency":  "NONE",
-                                                            "infoBlocks":  {
-                                                                               "tpPriceOffset":  {
-                                                                                                     "visible":  true
-                                                                                                 },
-                                                                               "tpPercentOffset":  {
-                                                                                                       "visible":  true
-                                                                                                   },
-                                                                               "tpTickOffset":  {
-                                                                                                    "visible":  true
-                                                                                                },
-                                                                               "tpAmount":  {
-                                                                                                "visible":  true
-                                                                                            },
-                                                                               "tpPL":  {
-                                                                                            "visible":  false
-                                                                                        },
-                                                                               "openClosePL":  {
-                                                                                                   "visible":  true
-                                                                                               },
-                                                                               "qty":  {
-                                                                                           "visible":  true
-                                                                                       },
-                                                                               "riskRewardRatio":  {
-                                                                                                       "visible":  true
-                                                                                                   },
-                                                                               "slPriceOffset":  {
-                                                                                                     "visible":  true
-                                                                                                 },
-                                                                               "slPercentOffset":  {
-                                                                                                       "visible":  true
-                                                                                                   },
-                                                                               "slTickOffset":  {
-                                                                                                    "visible":  true
-                                                                                                },
-                                                                               "slAmount":  {
-                                                                                                "visible":  true
-                                                                                            },
-                                                                               "slPL":  {
-                                                                                            "visible":  false
-                                                                                        }
-                                                                           },
-                                                            "frozen":  false,
-                                                            "visible":  true,
-                                                            "stopLevel":  5861,
-                                                            "profitLevel":  11994,
-                                                            "qty":  42.654837058523334,
-                                                            "amountTarget":  1511.6,
-                                                            "amountStop":  750,
-                                                            "entryPointCurrencyRate":  1,
-                                                            "closePointCurrencyRate":  1
-                                                        },
-                                         "selectable":  true,
-                                         "name":  "short_position"
                                      }
                                  ]
                  }
