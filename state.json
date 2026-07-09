@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T13:21:21.8108709-06:00",
-    "captured_at":  "2026-07-09T13:21:21.6214816-06:00",
+    "published_at":  "2026-07-09T13:22:07.2977732-06:00",
+    "captured_at":  "2026-07-09T13:22:07.1492669-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4124.32,
+    "price":  4123.43,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.335,
-                                      "direction":  "UP"
+                                      "delta":  -0.3,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.305,
-                                      "direction":  "UP"
+                                      "delta":  -0.405,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  0.28,
-                                     "direction":  "UP"
+                                     "delta":  -0.47,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -0.925,
+                                     "delta":  -0.785,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  6.235,
+                                               "distance":  5.345,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
