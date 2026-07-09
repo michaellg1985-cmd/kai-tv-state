@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T09:54:37.5006790-06:00",
-    "captured_at":  "2026-07-09T09:54:37.3350164-06:00",
+    "published_at":  "2026-07-09T09:55:23.5614733-06:00",
+    "captured_at":  "2026-07-09T09:55:23.3813158-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4127.18,
+    "price":  4127.715,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.095,
+                                      "delta":  0.555,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  0.285,
+                                      "delta":  1.075,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -2.24,
-                                     "direction":  "DOWN"
+                                     "delta":  1.115,
+                                     "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  -3.345,
+                                     "delta":  -1.72,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "OWNER LOCKED M5",
     "action":  "GO LONG",
     "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "42.4",
-    "stoch_kd":  "20.5/62.7",
-    "macd_hist":  "-0.3956",
+    "rsi":  "43.8",
+    "stoch_kd":  "3.2/23.8",
+    "macd_hist":  "-0.4202",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  9.095,
+                                               "distance":  9.63,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
