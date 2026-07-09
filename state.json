@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T08:31:45.4979255-06:00",
-    "captured_at":  "2026-07-09T08:31:45.2904647-06:00",
+    "published_at":  "2026-07-09T08:32:32.7146545-06:00",
+    "captured_at":  "2026-07-09T08:32:32.5550037-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4121.685,
+    "price":  4122.585,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.015,
+                                      "delta":  0.555,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -2.265,
-                                      "direction":  "DOWN"
+                                      "delta":  0.94,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -1.455,
-                                     "direction":  "DOWN"
+                                     "delta":  1.26,
+                                     "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  -1.2,
+                                     "delta":  -1.97,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT MICRO BREAK",
     "action":  "M1 REALIGN LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "47.4",
-    "stoch_kd":  "104.5/113.7",
-    "macd_hist":  "0.4411",
+    "rsi":  "48.8",
+    "stoch_kd":  "84.7/102.2",
+    "macd_hist":  "0.3248",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  3.6,
+                                            "distance":  4.5,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
