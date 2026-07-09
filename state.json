@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T12:24:07.2987553-06:00",
-    "captured_at":  "2026-07-09T12:24:07.1090031-06:00",
+    "published_at":  "2026-07-09T12:24:56.0323065-06:00",
+    "captured_at":  "2026-07-09T12:24:55.8116108-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4124.825,
+    "price":  4125.05,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.055,
+                                      "delta":  -0.38,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0,
-                                      "direction":  "FLAT"
+                                      "delta":  -0.545,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.33,
-                                     "direction":  "DOWN"
+                                     "delta":  0,
+                                     "direction":  "FLAT"
                                  },
                           "m5":  {
-                                     "delta":  -3.11,
+                                     "delta":  -2.115,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "OWNER LOST",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "28.3",
-    "stoch_kd":  "4.1/18.5",
-    "macd_hist":  "-0.2533",
+    "rsi":  "32.5",
+    "stoch_kd":  "28.6/23.7",
+    "macd_hist":  "-0.2099",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  6.74,
+                                               "distance":  6.965,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
