@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T08:25:27.5427979-06:00",
-    "captured_at":  "2026-07-09T08:25:27.4017106-06:00",
+    "published_at":  "2026-07-09T08:26:14.6823095-06:00",
+    "captured_at":  "2026-07-09T08:26:14.4667834-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4124.445,
+    "price":  4122.9,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.27,
-                                      "direction":  "UP"
+                                      "delta":  -0.325,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  1.075,
-                                      "direction":  "UP"
+                                      "delta":  -0.645,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  2.855,
-                                     "direction":  "UP"
+                                     "delta":  -1.05,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  9.95,
+                                     "delta":  6.395,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,40 +26,40 @@
     "sequence":  "RESET CAPTURED",
     "action":  "M1 RESET LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "54.1",
-    "stoch_kd":  "111.5/114.7",
-    "macd_hist":  "0.3872",
+    "rsi":  "52.9",
+    "stoch_kd":  "108/119.4",
+    "macd_hist":  "0.5032",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
-                           "near_count":  0,
-                           "context_count":  1,
+                           "near_count":  1,
+                           "context_count":  0,
                            "historic_count":  17,
                            "near":  [
-
+                                        {
+                                            "id":  "gPer3r",
+                                            "type":  "trend_line",
+                                            "bucket":  "CERCA",
+                                            "distance":  4.815,
+                                            "min_price":  3982.95,
+                                            "max_price":  4118.085,
+                                            "mid_price":  4050.518,
+                                            "text":  "",
+                                            "visible":  true,
+                                            "points":  [
+                                                           {
+                                                               "price":  3982.95,
+                                                               "time":  1782490860
+                                                           },
+                                                           {
+                                                               "price":  4118.085365829339,
+                                                               "time":  1782752760
+                                                           }
+                                                       ]
+                                        }
                                     ],
                            "context":  [
-                                           {
-                                               "id":  "gPer3r",
-                                               "type":  "trend_line",
-                                               "bucket":  "CONTEXTO",
-                                               "distance":  6.36,
-                                               "min_price":  3982.95,
-                                               "max_price":  4118.085,
-                                               "mid_price":  4050.518,
-                                               "text":  "",
-                                               "visible":  true,
-                                               "points":  [
-                                                              {
-                                                                  "price":  3982.95,
-                                                                  "time":  1782490860
-                                                              },
-                                                              {
-                                                                  "price":  4118.085365829339,
-                                                                  "time":  1782752760
-                                                              }
-                                                          ]
-                                           }
+
                                        ]
                        },
     "drawings":  {
