@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T03:40:28.5876267-06:00",
-    "captured_at":  "2026-07-09T03:40:28.4645415-06:00",
+    "published_at":  "2026-07-09T03:41:13.7462441-06:00",
+    "captured_at":  "2026-07-09T03:41:13.5868089-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4105.335,
+    "price":  4104.465,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.06,
-                                      "direction":  "UP"
+                                      "delta":  -0.64,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  -0.88,
+                                      "delta":  -1.055,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -1,
+                                     "delta":  -1.045,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -1.79,
+                                     "delta":  -3.475,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "OWNER LOST",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "37",
-    "stoch_kd":  "37/35.6",
-    "macd_hist":  "-0.232",
+    "rsi":  "35.7",
+    "stoch_kd":  "8.9/28.5",
+    "macd_hist":  "-0.2518",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
@@ -63,7 +63,7 @@
                                                "id":  "sKNDFA",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  15.315,
+                                               "distance":  14.445,
                                                "min_price":  4065.687,
                                                "max_price":  4090.02,
                                                "mid_price":  4077.854,
