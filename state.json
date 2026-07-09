@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T14:54:48.7830829-06:00",
-    "captured_at":  "2026-07-09T14:54:48.6394354-06:00",
+    "published_at":  "2026-07-09T14:55:32.7188644-06:00",
+    "captured_at":  "2026-07-09T14:55:32.5581300-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4123.945,
+    "price":  4124.5,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0,
-                                      "direction":  "FLAT"
+                                      "delta":  -0.01,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.23,
+                                      "delta":  0.58,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -0.08,
-                                     "direction":  "DOWN"
+                                     "delta":  0.4,
+                                     "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  0.53,
+                                     "delta":  0.7,
                                      "direction":  "UP"
                                  }
                       },
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  5.86,
+                                               "distance":  6.415,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
