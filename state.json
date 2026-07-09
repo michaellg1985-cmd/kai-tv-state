@@ -1,40 +1,40 @@
 ﻿{
-    "published_at":  "2026-07-09T00:05:04.1247366-06:00",
-    "captured_at":  "2026-07-09T00:05:03.8559620-06:00",
+    "published_at":  "2026-07-09T00:05:54.6833516-06:00",
+    "captured_at":  "2026-07-09T00:05:54.4284948-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "5",
-    "price":  4092.925,
+    "price":  4090.905,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.205,
-                                      "direction":  "UP"
+                                      "delta":  -0.44,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  1.375,
-                                      "direction":  "UP"
+                                      "delta":  -1.03,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  2.365,
-                                     "direction":  "UP"
+                                     "delta":  -1.815,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  10.98,
-                                     "direction":  "UP"
+                                     "delta":  -7.635,
+                                     "direction":  "DOWN"
                                  }
                       },
-    "owner_m5":  "LONG 82",
+    "owner_m5":  "LONG 89",
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "77",
-    "stoch_kd":  "207.8/156.2",
-    "macd_hist":  "2.36",
-    "volume_state":  "SOBRE AVG",
+    "rsi":  "74.1",
+    "stoch_kd":  "108.8/150.9",
+    "macd_hist":  "2.5015",
+    "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  2,
-                           "context_count":  0,
-                           "historic_count":  16,
+                           "context_count":  1,
+                           "historic_count":  15,
                            "near":  [
                                         {
                                             "id":  "gPer3r",
@@ -61,7 +61,7 @@
                                             "id":  "sKNDFA",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  2.905,
+                                            "distance":  0.885,
                                             "min_price":  4065.687,
                                             "max_price":  4090.02,
                                             "mid_price":  4077.854,
@@ -80,7 +80,27 @@
                                         }
                                     ],
                            "context":  [
-
+                                           {
+                                               "id":  "bAAKkF",
+                                               "type":  "trend_line",
+                                               "bucket":  "CONTEXTO",
+                                               "distance":  18.468,
+                                               "min_price":  4048.104,
+                                               "max_price":  4072.437,
+                                               "mid_price":  4060.27,
+                                               "text":  "",
+                                               "visible":  true,
+                                               "points":  [
+                                                              {
+                                                                  "price":  4072.4368439662007,
+                                                                  "time":  1783550100
+                                                              },
+                                                              {
+                                                                  "price":  4048.1040626564404,
+                                                                  "time":  1783575900
+                                                              }
+                                                          ]
+                                           }
                                        ]
                        },
     "drawings":  {
