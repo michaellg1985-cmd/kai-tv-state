@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-08T23:37:33.5228122-06:00",
-    "captured_at":  "2026-07-08T23:37:33.2920166-06:00",
+    "published_at":  "2026-07-08T23:38:28.5259060-06:00",
+    "captured_at":  "2026-07-08T23:38:28.1927066-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "5",
-    "price":  4071.63,
+    "price":  4073.66,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.11,
-                                      "direction":  "DOWN"
+                                      "delta":  0.445,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  0.65,
+                                      "delta":  1.365,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  1.14,
+                                     "delta":  1.67,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  6.49,
+                                     "delta":  5.14,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,14 +26,14 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "58.7",
-    "stoch_kd":  "126.6/141.3",
-    "macd_hist":  "1.2698",
+    "rsi":  "60.4",
+    "stoch_kd":  "132.1/143.1",
+    "macd_hist":  "1.3579",
     "volume_state":  "SOBRE AVG",
     "drawings_count":  19,
     "visual_context":  {
-                           "near_count":  5,
-                           "context_count":  0,
+                           "near_count":  4,
+                           "context_count":  1,
                            "historic_count":  14,
                            "near":  [
                                         {
@@ -54,23 +54,6 @@
                                                            {
                                                                "price":  4118.085365829339,
                                                                "time":  1782747000
-                                                           }
-                                                       ]
-                                        },
-                                        {
-                                            "id":  "CkIExi",
-                                            "type":  "vertical_line",
-                                            "bucket":  "CERCA",
-                                            "distance":  4.132,
-                                            "min_price":  4067.498,
-                                            "max_price":  4067.498,
-                                            "mid_price":  4067.498,
-                                            "text":  "zona mike",
-                                            "visible":  true,
-                                            "points":  [
-                                                           {
-                                                               "price":  4067.4975511302196,
-                                                               "time":  1783574100
                                                            }
                                                        ]
                                         },
@@ -99,7 +82,7 @@
                                             "id":  "bAAKkF",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  0,
+                                            "distance":  1.223,
                                             "min_price":  4048.104,
                                             "max_price":  4072.437,
                                             "mid_price":  4060.27,
@@ -120,7 +103,7 @@
                                             "id":  "xgCBmw",
                                             "type":  "short_position",
                                             "bucket":  "CERCA",
-                                            "distance":  0.491,
+                                            "distance":  2.521,
                                             "min_price":  4071.139,
                                             "max_price":  4071.139,
                                             "mid_price":  4071.139,
@@ -139,7 +122,23 @@
                                         }
                                     ],
                            "context":  [
-
+                                           {
+                                               "id":  "CkIExi",
+                                               "type":  "vertical_line",
+                                               "bucket":  "CONTEXTO",
+                                               "distance":  6.162,
+                                               "min_price":  4067.498,
+                                               "max_price":  4067.498,
+                                               "mid_price":  4067.498,
+                                               "text":  "zona mike",
+                                               "visible":  true,
+                                               "points":  [
+                                                              {
+                                                                  "price":  4067.4975511302196,
+                                                                  "time":  1783574100
+                                                              }
+                                                          ]
+                                           }
                                        ]
                        },
     "drawings":  {
