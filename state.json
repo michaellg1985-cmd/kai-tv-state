@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-09T00:18:23.1372298-06:00",
-    "captured_at":  "2026-07-09T00:18:22.9933767-06:00",
+    "published_at":  "2026-07-09T00:19:08.2178423-06:00",
+    "captured_at":  "2026-07-09T00:19:08.0647576-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "5",
-    "price":  4093.59,
+    "price":  4093.155,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.575,
-                                      "direction":  "DOWN"
+                                      "delta":  0.875,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -1.14,
+                                      "delta":  -0.19,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.34,
+                                     "delta":  -1.1,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  3.025,
+                                     "delta":  1.425,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 95",
+    "owner_m5":  "LONG 94",
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "73.6",
+    "rsi":  "72.3",
     "stoch_kd":  "118.4/121.9",
-    "macd_hist":  "2.382",
-    "volume_state":  "BAJO AVG",
+    "macd_hist":  "2.2521",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  2,
@@ -61,7 +61,7 @@
                                             "id":  "sKNDFA",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  3.57,
+                                            "distance":  3.135,
                                             "min_price":  4065.687,
                                             "max_price":  4090.02,
                                             "mid_price":  4077.854,
