@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T06:33:43.6373872-06:00",
-    "captured_at":  "2026-07-09T06:33:43.4812087-06:00",
+    "published_at":  "2026-07-09T06:34:29.9074730-06:00",
+    "captured_at":  "2026-07-09T06:34:29.7479903-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4112.905,
+    "price":  4112.71,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.34,
+                                      "delta":  0.11,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  1.525,
-                                      "direction":  "UP"
+                                      "delta":  -0.295,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  1.04,
+                                     "delta":  0.08,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  6.97,
+                                     "delta":  6.03,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT MICRO BREAK",
     "action":  "M1 REALIGN LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "62.1",
-    "stoch_kd":  "151.4/146.2",
-    "macd_hist":  "0.4836",
+    "rsi":  "59.8",
+    "stoch_kd":  "125.7/147.6",
+    "macd_hist":  "0.6544",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
