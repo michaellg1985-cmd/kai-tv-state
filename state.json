@@ -1,34 +1,34 @@
 ﻿{
-    "published_at":  "2026-07-09T02:38:45.2597077-06:00",
-    "captured_at":  "2026-07-09T02:38:45.1068925-06:00",
+    "published_at":  "2026-07-09T02:39:29.7908713-06:00",
+    "captured_at":  "2026-07-09T02:39:29.6496487-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4114.23,
+    "price":  4114.945,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.31,
-                                      "direction":  "DOWN"
+                                      "delta":  0.905,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  0.47,
+                                      "delta":  0.625,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  0.52,
+                                     "delta":  0.565,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  1.13,
+                                     "delta":  3.785,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 80",
+    "owner_m5":  "LONG 79",
     "sequence":  "OWNER LOCKED M5",
     "action":  "GO LONG",
     "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "57.7",
-    "stoch_kd":  "103.4/80.7",
-    "macd_hist":  "-0.2553",
+    "rsi":  "57",
+    "stoch_kd":  "96.6/93.1",
+    "macd_hist":  "-0.2078",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
