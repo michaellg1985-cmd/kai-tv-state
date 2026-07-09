@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T13:31:16.5214367-06:00",
-    "captured_at":  "2026-07-09T13:31:16.3161184-06:00",
+    "published_at":  "2026-07-09T13:32:01.9646274-06:00",
+    "captured_at":  "2026-07-09T13:32:01.7977689-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4120.24,
+    "price":  4120.72,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.07,
+                                      "delta":  -0.22,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.275,
-                                      "direction":  "UP"
+                                      "delta":  -0.155,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.84,
-                                     "direction":  "DOWN"
+                                     "delta":  0.78,
+                                     "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  -1.105,
+                                     "delta":  -0.195,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  2.155,
+                                            "distance":  2.635,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
