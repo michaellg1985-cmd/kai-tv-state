@@ -1,25 +1,25 @@
 ﻿{
-    "published_at":  "2026-07-09T13:55:43.5298456-06:00",
-    "captured_at":  "2026-07-09T13:55:43.2584678-06:00",
+    "published_at":  "2026-07-09T13:56:46.6001396-06:00",
+    "captured_at":  "2026-07-09T13:56:46.3314374-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4122.54,
+    "price":  4121.94,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.71,
+                                      "delta":  0.185,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  0.995,
+                                      "delta":  0.23,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  0.73,
-                                     "direction":  "UP"
+                                     "delta":  -0.6,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  1.04,
-                                     "direction":  "UP"
+                                     "delta":  -1.33,
+                                     "direction":  "DOWN"
                                  }
                       },
     "owner_m5":  null,
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  4.455,
+                                            "distance":  3.855,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
