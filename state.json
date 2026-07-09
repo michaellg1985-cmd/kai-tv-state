@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-09T07:34:13.8845659-06:00",
-    "captured_at":  "2026-07-09T07:34:13.7235912-06:00",
+    "published_at":  "2026-07-09T07:34:59.5846678-06:00",
+    "captured_at":  "2026-07-09T07:34:59.4517712-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4127.51,
+    "price":  4125.75,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  2.43,
-                                      "direction":  "UP"
+                                      "delta":  -0.55,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  3.915,
-                                      "direction":  "UP"
+                                      "delta":  -1.53,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  2.415,
+                                     "delta":  1.485,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  1.605,
-                                     "direction":  "UP"
+                                     "delta":  -0.35,
+                                     "direction":  "DOWN"
                                  }
                       },
-    "owner_m5":  "LONG 81",
-    "sequence":  "OWNER LOCKED M5",
-    "action":  "GO LONG",
-    "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "57.3",
-    "stoch_kd":  "79.1/95.9",
-    "macd_hist":  "-0.311",
-    "volume_state":  "BAJO AVG",
+    "owner_m5":  "LONG 80",
+    "sequence":  "WAIT M1 RESET",
+    "action":  "TP +1.25R",
+    "verdict":  "SIN RUNNER ACTIVO",
+    "rsi":  "60.6",
+    "stoch_kd":  "164.6/124.5",
+    "macd_hist":  "-0.2048",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  0,
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  9.425,
+                                               "distance":  7.665,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
