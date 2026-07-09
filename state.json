@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T06:16:42.5784904-06:00",
-    "captured_at":  "2026-07-09T06:16:42.3951005-06:00",
+    "published_at":  "2026-07-09T06:17:29.4070221-06:00",
+    "captured_at":  "2026-07-09T06:17:29.2101729-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4111.435,
+    "price":  4110.785,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.04,
-                                      "direction":  "UP"
+                                      "delta":  -0.115,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.21,
-                                      "direction":  "UP"
+                                      "delta":  -0.235,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -1.49,
+                                     "delta":  -0.885,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -5.08,
+                                     "delta":  -4.385,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "RESET CAPTURED",
     "action":  "M1 RESET LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "51.5",
-    "stoch_kd":  "59/82.1",
-    "macd_hist":  "-0.2658",
+    "rsi":  "50.3",
+    "stoch_kd":  "51.7/63.4",
+    "macd_hist":  "-0.4629",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
