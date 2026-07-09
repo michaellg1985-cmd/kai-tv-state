@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-08T23:54:46.4326501-06:00",
-    "captured_at":  "2026-07-08T23:54:46.1995569-06:00",
+    "published_at":  "2026-07-08T23:55:35.9222180-06:00",
+    "captured_at":  "2026-07-08T23:55:35.7203632-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "5",
-    "price":  4080.45,
+    "price":  4079.505,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.64,
+                                      "delta":  0.395,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  0.915,
-                                      "direction":  "UP"
+                                      "delta":  -0.035,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  1.47,
-                                     "direction":  "UP"
+                                     "delta":  -0.305,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  2.425,
+                                     "delta":  0.04,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 77",
+    "owner_m5":  "LONG 81",
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "66.9",
-    "stoch_kd":  "124.7/126.8",
-    "macd_hist":  "1.6965",
-    "volume_state":  "SOBRE AVG",
+    "rsi":  "64.8",
+    "stoch_kd":  "107.8/123.2",
+    "macd_hist":  "1.5533",
+    "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  2,
@@ -84,7 +84,7 @@
                                                "id":  "CkIExi",
                                                "type":  "vertical_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  12.952,
+                                               "distance":  12.007,
                                                "min_price":  4067.498,
                                                "max_price":  4067.498,
                                                "mid_price":  4067.498,
@@ -101,7 +101,7 @@
                                                "id":  "bAAKkF",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  8.013,
+                                               "distance":  7.068,
                                                "min_price":  4048.104,
                                                "max_price":  4072.437,
                                                "mid_price":  4060.27,
