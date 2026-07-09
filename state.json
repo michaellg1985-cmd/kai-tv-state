@@ -1,34 +1,34 @@
 ﻿{
-    "published_at":  "2026-07-09T00:05:54.6833516-06:00",
-    "captured_at":  "2026-07-09T00:05:54.4284948-06:00",
+    "published_at":  "2026-07-09T00:06:45.7051869-06:00",
+    "captured_at":  "2026-07-09T00:06:45.5151931-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "5",
-    "price":  4090.905,
+    "price":  4090.34,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.44,
+                                      "delta":  -0.16,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  -1.03,
-                                      "direction":  "DOWN"
+                                      "delta":  0.03,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -1.815,
+                                     "delta":  -0.9,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -7.635,
+                                     "delta":  -4.24,
                                      "direction":  "DOWN"
                                  }
                       },
-    "owner_m5":  "LONG 89",
+    "owner_m5":  "LONG 87",
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "74.1",
-    "stoch_kd":  "108.8/150.9",
-    "macd_hist":  "2.5015",
+    "rsi":  "72.3",
+    "stoch_kd":  "118.2/154",
+    "macd_hist":  "2.4345",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
@@ -61,7 +61,7 @@
                                             "id":  "sKNDFA",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  0.885,
+                                            "distance":  0.32,
                                             "min_price":  4065.687,
                                             "max_price":  4090.02,
                                             "mid_price":  4077.854,
@@ -84,7 +84,7 @@
                                                "id":  "bAAKkF",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  18.468,
+                                               "distance":  17.903,
                                                "min_price":  4048.104,
                                                "max_price":  4072.437,
                                                "mid_price":  4060.27,
