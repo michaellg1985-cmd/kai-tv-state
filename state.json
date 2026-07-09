@@ -1,40 +1,40 @@
 ﻿{
-    "published_at":  "2026-07-09T01:49:25.7540648-06:00",
-    "captured_at":  "2026-07-09T01:49:25.4887505-06:00",
+    "published_at":  "2026-07-09T01:50:11.1159689-06:00",
+    "captured_at":  "2026-07-09T01:50:10.9595885-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4109.655,
+    "price":  4110.71,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.3,
-                                      "direction":  "DOWN"
+                                      "delta":  0.08,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -0.05,
+                                      "delta":  -0.245,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  1.12,
+                                     "delta":  0.755,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  0.475,
+                                     "delta":  1.74,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 88",
+    "owner_m5":  "LONG 89",
     "sequence":  "OWNER LOCKED M5",
     "action":  "GO LONG",
     "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "57.5",
-    "stoch_kd":  "113.8/102.9",
-    "macd_hist":  "-0.0081",
+    "rsi":  "60.8",
+    "stoch_kd":  "100/144",
+    "macd_hist":  "0.1306",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  1,
-                           "context_count":  1,
-                           "historic_count":  16,
+                           "context_count":  0,
+                           "historic_count":  17,
                            "near":  [
                                         {
                                             "id":  "gPer3r",
@@ -59,27 +59,7 @@
                                         }
                                     ],
                            "context":  [
-                                           {
-                                               "id":  "sKNDFA",
-                                               "type":  "trend_line",
-                                               "bucket":  "CONTEXTO",
-                                               "distance":  19.635,
-                                               "min_price":  4065.687,
-                                               "max_price":  4090.02,
-                                               "mid_price":  4077.854,
-                                               "text":  "",
-                                               "visible":  true,
-                                               "points":  [
-                                                              {
-                                                                  "price":  4090.02,
-                                                                  "time":  1783556100
-                                                              },
-                                                              {
-                                                                  "price":  4065.6872186902397,
-                                                                  "time":  1783581900
-                                                              }
-                                                          ]
-                                           }
+
                                        ]
                        },
     "drawings":  {
