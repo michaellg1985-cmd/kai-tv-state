@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T13:45:03.0357627-06:00",
-    "captured_at":  "2026-07-09T13:45:02.8364366-06:00",
+    "published_at":  "2026-07-09T13:45:53.6311986-06:00",
+    "captured_at":  "2026-07-09T13:45:53.4313913-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4120.315,
+    "price":  4120.45,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.295,
-                                      "direction":  "DOWN"
+                                      "delta":  0.285,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -0.535,
+                                      "delta":  -0.045,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  0.135,
-                                     "direction":  "UP"
+                                     "delta":  -0.215,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -0.555,
+                                     "delta":  -0.795,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  2.23,
+                                            "distance":  2.365,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
