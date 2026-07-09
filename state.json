@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T05:39:14.6508106-06:00",
-    "captured_at":  "2026-07-09T05:39:14.4813330-06:00",
+    "published_at":  "2026-07-09T05:39:59.2130466-06:00",
+    "captured_at":  "2026-07-09T05:39:59.0882052-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4103.76,
+    "price":  4105.435,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.48,
+                                      "delta":  0.875,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  0.82,
+                                      "delta":  0.62,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  2.665,
+                                     "delta":  2.29,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  2.495,
+                                     "delta":  4.37,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,10 +26,10 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "OWNER LOST",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "56.1",
-    "stoch_kd":  "104.2/179.4",
-    "macd_hist":  "0.2077",
-    "volume_state":  "BAJO AVG",
+    "rsi":  "60",
+    "stoch_kd":  "150.1/194.7",
+    "macd_hist":  "0.2903",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  1,
@@ -63,7 +63,7 @@
                                                "id":  "sKNDFA",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  13.74,
+                                               "distance":  15.415,
                                                "min_price":  4065.687,
                                                "max_price":  4090.02,
                                                "mid_price":  4077.854,
