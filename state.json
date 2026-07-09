@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-08T23:14:36.6311916-06:00",
-    "captured_at":  "2026-07-08T23:14:36.1643973-06:00",
+    "published_at":  "2026-07-08T23:15:22.2647656-06:00",
+    "captured_at":  "2026-07-08T23:15:22.1027251-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4072.85,
+    "price":  4072.68,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.44,
-                                      "direction":  "UP"
+                                      "delta":  -0.67,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  -0.115,
+                                      "delta":  -0.045,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -1.355,
+                                     "delta":  -0.26,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  4.035,
+                                     "delta":  3.58,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "OWNER LOST",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "68.1",
-    "stoch_kd":  "113.4/133.6",
-    "macd_hist":  "0.5125",
+    "rsi":  "70.8",
+    "stoch_kd":  "111.3/125.6",
+    "macd_hist":  "0.5199",
     "volume_state":  "BAJO AVG",
     "drawings_count":  15,
     "visual_context":  {
