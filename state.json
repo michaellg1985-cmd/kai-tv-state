@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T05:43:02.5285023-06:00",
-    "captured_at":  "2026-07-09T05:43:02.3835301-06:00",
+    "published_at":  "2026-07-09T05:43:49.7392925-06:00",
+    "captured_at":  "2026-07-09T05:43:49.5559839-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4106.745,
+    "price":  4107.625,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -1.535,
+                                      "delta":  -0.035,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  -1.635,
-                                      "direction":  "DOWN"
+                                      "delta":  0.61,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -0.955,
+                                     "delta":  -1.515,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  5.84,
+                                     "delta":  4.645,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,10 +26,10 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "OWNER LOST",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "68.7",
-    "stoch_kd":  "124.4/129.8",
-    "macd_hist":  "0.862",
-    "volume_state":  "BAJO AVG",
+    "rsi":  "66.5",
+    "stoch_kd":  "105.7/120.3",
+    "macd_hist":  "0.8442",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  1,
@@ -63,7 +63,7 @@
                                                "id":  "sKNDFA",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  16.725,
+                                               "distance":  17.605,
                                                "min_price":  4065.687,
                                                "max_price":  4090.02,
                                                "mid_price":  4077.854,
