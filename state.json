@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T09:27:43.4327694-06:00",
-    "captured_at":  "2026-07-09T09:27:43.2688918-06:00",
+    "published_at":  "2026-07-09T09:28:29.1677852-06:00",
+    "captured_at":  "2026-07-09T09:28:29.0467494-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4128.83,
+    "price":  4128.935,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.03,
-                                      "direction":  "DOWN"
+                                      "delta":  0.085,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -0.74,
+                                      "delta":  -1.165,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -1,
+                                     "delta":  -0.095,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  1.145,
+                                     "delta":  0.06,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "OWNER LOCKED M5",
     "action":  "GO LONG",
     "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "57.9",
-    "stoch_kd":  "138.8/137.4",
-    "macd_hist":  "0.1601",
+    "rsi":  "57.7",
+    "stoch_kd":  "127.2/137.7",
+    "macd_hist":  "0.1524",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  10.745,
+                                               "distance":  10.85,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
