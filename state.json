@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T09:30:01.6645699-06:00",
-    "captured_at":  "2026-07-09T09:30:01.5013596-06:00",
+    "published_at":  "2026-07-09T09:30:48.0571925-06:00",
+    "captured_at":  "2026-07-09T09:30:47.9323037-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4128.005,
+    "price":  4127.275,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.28,
-                                      "direction":  "UP"
+                                      "delta":  -0.33,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.49,
-                                      "direction":  "UP"
+                                      "delta":  -0.785,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.445,
+                                     "delta":  -0.61,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -1.76,
+                                     "delta":  -1.815,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,10 +26,10 @@
     "sequence":  "OWNER LOCKED M5",
     "action":  "GO LONG",
     "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "52",
-    "stoch_kd":  "116.4/130",
-    "macd_hist":  "0.0044",
-    "volume_state":  "SOBRE AVG",
+    "rsi":  "49.6",
+    "stoch_kd":  "80.6/108.5",
+    "macd_hist":  "-0.1049",
+    "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  0,
@@ -43,7 +43,7 @@
                                                "id":  "gPer3r",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  9.92,
+                                               "distance":  9.19,
                                                "min_price":  3982.95,
                                                "max_price":  4118.085,
                                                "mid_price":  4050.518,
