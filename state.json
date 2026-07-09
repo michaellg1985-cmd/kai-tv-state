@@ -1,40 +1,40 @@
 ﻿{
-    "published_at":  "2026-07-09T02:19:51.6513982-06:00",
-    "captured_at":  "2026-07-09T02:19:51.5192824-06:00",
+    "published_at":  "2026-07-09T02:20:37.5335970-06:00",
+    "captured_at":  "2026-07-09T02:20:37.3515604-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4109.415,
+    "price":  4110.695,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.44,
-                                      "direction":  "DOWN"
+                                      "delta":  0.29,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -0.555,
-                                      "direction":  "DOWN"
+                                      "delta":  1.425,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -0.235,
-                                     "direction":  "DOWN"
+                                     "delta":  1.015,
+                                     "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  2.39,
+                                     "delta":  1.325,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 74",
-    "sequence":  "WAIT M1 RESET",
-    "action":  "TP +1.25R",
+    "owner_m5":  "LONG 75",
+    "sequence":  "WAIT MICRO BREAK",
+    "action":  "M1 REALIGN LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "53.5",
-    "stoch_kd":  "122.4/159.1",
-    "macd_hist":  "0.211",
+    "rsi":  "56.9",
+    "stoch_kd":  "137.5/139.1",
+    "macd_hist":  "0.2283",
     "volume_state":  "BAJO AVG",
     "drawings_count":  18,
     "visual_context":  {
                            "near_count":  1,
-                           "context_count":  1,
-                           "historic_count":  16,
+                           "context_count":  0,
+                           "historic_count":  17,
                            "near":  [
                                         {
                                             "id":  "gPer3r",
@@ -59,27 +59,7 @@
                                         }
                                     ],
                            "context":  [
-                                           {
-                                               "id":  "sKNDFA",
-                                               "type":  "trend_line",
-                                               "bucket":  "CONTEXTO",
-                                               "distance":  19.395,
-                                               "min_price":  4065.687,
-                                               "max_price":  4090.02,
-                                               "mid_price":  4077.854,
-                                               "text":  "",
-                                               "visible":  true,
-                                               "points":  [
-                                                              {
-                                                                  "price":  4090.02,
-                                                                  "time":  1783556100
-                                                              },
-                                                              {
-                                                                  "price":  4065.6872186902397,
-                                                                  "time":  1783581900
-                                                              }
-                                                          ]
-                                           }
+
                                        ]
                        },
     "drawings":  {
