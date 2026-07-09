@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T16:41:42.0858455-06:00",
-    "captured_at":  "2026-07-09T16:41:41.9593406-06:00",
+    "published_at":  "2026-07-09T16:42:23.0057693-06:00",
+    "captured_at":  "2026-07-09T16:42:22.8996531-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4122.935,
+    "price":  4123.025,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.27,
-                                      "direction":  "DOWN"
+                                      "delta":  0.05,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -0.335,
-                                      "direction":  "DOWN"
+                                      "delta":  0.095,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -0.405,
+                                     "delta":  -0.165,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -0.6,
+                                     "delta":  -1.065,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  4.85,
+                                            "distance":  4.94,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
