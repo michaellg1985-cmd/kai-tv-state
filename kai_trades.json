@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-10T09:04:21.669374+00:00",
-  "count": 2,
+  "generated_at": "2026-07-10T09:05:24.200543+00:00",
+  "count": 3,
   "trades": [
+    {
+      "id": 8,
+      "received_at": "2026-07-10T09:05:00.415610+00:00",
+      "event": "EXIT",
+      "strategy_version": null,
+      "symbol": "XAUUSD",
+      "timeframe": "1",
+      "side": "SELL",
+      "price": 4098.495,
+      "entry_price": 4095.435,
+      "sl": 4099.84,
+      "tp": 4089.928,
+      "result_r": -1.0,
+      "mfe_r": 0.2043,
+      "mae_r": null,
+      "exit_reason": null,
+      "bars_in_trade": null,
+      "cycle_try": null,
+      "cycle_dir": null,
+      "owner_dir": null,
+      "payload": "{\"event\": \"EXIT\", \"version\": \"v1.9.8 BRIDGE OUTPUT LAB\", \"symbol\": \"XAUUSD\", \"timeframe\": \"1\", \"side\": \"SELL\", \"price\": 4098.495, \"entry\": 4095.435, \"sl\": 4099.84, \"tp\": 4089.928, \"rr\": 1.25, \"result_r\": -1, \"mfe_r\": 0.2043, \"giveback_r\": 0.8989, \"reason\": \"SL\", \"quality\": \"KAI_EXIT\", \"score\": 0}"
+    },
     {
       "id": 6,
       "received_at": "2026-07-10T08:50:00.776454+00:00",
