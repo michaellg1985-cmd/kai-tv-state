@@ -1,5 +1,50 @@
 {
-  "generated_at": "2026-07-10T07:57:15.614786+00:00",
-  "count": 0,
-  "events": []
+  "generated_at": "2026-07-10T07:58:18.158691+00:00",
+  "count": 2,
+  "events": [
+    {
+      "id": 2,
+      "received_at": "2026-07-10T07:57:58.093014+00:00",
+      "event": "ENTRY",
+      "strategy_version": null,
+      "symbol": "XAUUSD",
+      "timeframe": "1",
+      "side": "SELL",
+      "price": 4106.425,
+      "entry_price": null,
+      "sl": 4110.357,
+      "tp": 4101.51,
+      "result_r": null,
+      "mfe_r": null,
+      "mae_r": null,
+      "exit_reason": null,
+      "bars_in_trade": null,
+      "cycle_try": null,
+      "cycle_dir": null,
+      "owner_dir": null,
+      "payload": "{\"event\": \"ENTRY\", \"version\": \"v1.9.8 BRIDGE OUTPUT LAB\", \"symbol\": \"XAUUSD\", \"timeframe\": \"1\", \"side\": \"SELL\", \"price\": 4106.425, \"sl\": 4110.357, \"tp\": 4101.51, \"rr\": 1.25, \"engine\": \"CLASSIC\", \"exit_mode\": \"BASE\", \"owner_m5\": \"SHORT\", \"m5_score\": 72.8673, \"quality\": \"KAI_ENTRY\", \"score\": 0}"
+    },
+    {
+      "id": 1,
+      "received_at": "2026-07-10T07:57:57.936039+00:00",
+      "event": "ENTRY",
+      "strategy_version": "KAI_BETA_3_1_CYCLE_CONTROL",
+      "symbol": "XAUUSD",
+      "timeframe": "1",
+      "side": "SELL",
+      "price": 4106.425,
+      "entry_price": 4106.425,
+      "sl": 4114.905,
+      "tp": 4089.465,
+      "result_r": null,
+      "mfe_r": null,
+      "mae_r": null,
+      "exit_reason": null,
+      "bars_in_trade": null,
+      "cycle_try": 1,
+      "cycle_dir": -1,
+      "owner_dir": -1,
+      "payload": "{\"event\": \"ENTRY\", \"strategy_version\": \"KAI_BETA_3_1_CYCLE_CONTROL\", \"symbol\": \"XAUUSD\", \"timeframe\": \"1\", \"side\": \"SELL\", \"price\": 4106.425, \"entry\": 4106.425, \"sl\": 4114.905, \"tp\": 4089.465, \"risk_r\": 8.48, \"cycle_try\": 1, \"cycle_dir\": -1, \"owner_dir\": -1, \"bar_index\": 12737, \"bar_time\": 1783670220000}"
+    }
+  ]
 }
