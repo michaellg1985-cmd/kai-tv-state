@@ -1,18 +1,18 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T07:12:39.230170-06:00",
-  "published_at": "2026-07-10T07:12:37.7818692-06:00",
+  "read_at": "2026-07-10T07:13:19.957522-06:00",
+  "published_at": "2026-07-10T07:13:18.2582937-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4103.08,
+  "price": 4104.295,
   "windows": {
-    "s10": "DOWN",
+    "s10": "UP",
     "s30": "UP",
     "m1": "UP",
-    "m5": "DOWN"
+    "m5": "UP"
   },
-  "pressure": "MIXED",
-  "alignment": "MIXED",
+  "pressure": "PRESSURE_UP",
+  "alignment": "FULL_UP",
   "momentum": "MIXED",
   "volume": null,
   "zone_state": "TEST_NEAR:trend_line",
