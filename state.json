@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-10T07:28:07.2917857-06:00",
-    "captured_at":  "2026-07-10T07:28:07.1932316-06:00",
+    "published_at":  "2026-07-10T07:28:48.8664511-06:00",
+    "captured_at":  "2026-07-10T07:28:48.7804031-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4089.215,
+    "price":  4090.46,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.38,
-                                      "direction":  "DOWN"
+                                      "delta":  0.28,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -4.14,
-                                      "direction":  "DOWN"
+                                      "delta":  1.53,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -6.605,
+                                     "delta":  -0.185,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -10.48,
+                                     "delta":  -9.29,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -61,7 +61,7 @@
                                             "id":  "sKNDFA",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  0,
+                                            "distance":  0.44,
                                             "min_price":  4065.687,
                                             "max_price":  4090.02,
                                             "mid_price":  4077.854,
@@ -84,7 +84,7 @@
                                                "id":  "bAAKkF",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  16.778,
+                                               "distance":  18.023,
                                                "min_price":  4048.104,
                                                "max_price":  4072.437,
                                                "mid_price":  4060.27,
