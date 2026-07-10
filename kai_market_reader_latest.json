@@ -1,15 +1,15 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T04:46:30.056677-06:00",
-  "published_at": "2026-07-10T04:46:28.8800514-06:00",
+  "read_at": "2026-07-10T04:47:10.132470-06:00",
+  "published_at": "2026-07-10T04:47:09.2302619-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4107.77,
+  "price": 4107.505,
   "windows": {
-    "s10": "DOWN",
+    "s10": "UP",
     "s30": "DOWN",
     "m1": "DOWN",
-    "m5": "UP"
+    "m5": "DOWN"
   },
   "pressure": "BIAS_DOWN",
   "alignment": "3/4_DOWN",
@@ -44,7 +44,7 @@
   "reading": "NO_CONFIRMATION",
   "transition_state": "NEUTRAL",
   "cycle_state": "ACCUMULATION_UNRESOLVED",
-  "cycle_span": 1.24,
+  "cycle_span": 1.505,
   "cycle_anchor": null,
   "induction_candidate": null,
   "active_trap": null,
