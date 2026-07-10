@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-10T14:55:57.8983815-06:00",
-    "captured_at":  "2026-07-10T14:55:57.8032545-06:00",
+    "published_at":  "2026-07-10T14:56:38.0550700-06:00",
+    "captured_at":  "2026-07-10T14:56:37.9535582-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4120.57,
+    "price":  4119.155,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.27,
+                                      "delta":  -0.315,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.355,
-                                      "direction":  "UP"
+                                      "delta":  -1.06,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  1.29,
-                                     "direction":  "UP"
+                                     "delta":  -1.295,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  6.63,
+                                     "delta":  4.835,
                                      "direction":  "UP"
                                  }
                       },
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  2.485,
+                                            "distance":  1.07,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
