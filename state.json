@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-09T18:12:54.3903826-06:00",
-    "captured_at":  "2026-07-09T18:12:54.2538947-06:00",
+    "published_at":  "2026-07-09T18:13:37.1513037-06:00",
+    "captured_at":  "2026-07-09T18:13:37.0158131-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4122.205,
+    "price":  4121.995,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.025,
+                                      "delta":  -0.075,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.19,
-                                      "direction":  "UP"
+                                      "delta":  -0.225,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  0.015,
-                                     "direction":  "UP"
+                                     "delta":  -0.045,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  0.475,
+                                     "delta":  0.725,
                                      "direction":  "UP"
                                  }
                       },
@@ -40,7 +40,7 @@
                                             "id":  "gPer3r",
                                             "type":  "trend_line",
                                             "bucket":  "CERCA",
-                                            "distance":  4.12,
+                                            "distance":  3.91,
                                             "min_price":  3982.95,
                                             "max_price":  4118.085,
                                             "mid_price":  4050.518,
