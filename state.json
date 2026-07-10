@@ -1,25 +1,25 @@
 ﻿{
-    "published_at":  "2026-07-10T04:06:11.1309788-06:00",
-    "captured_at":  "2026-07-10T04:06:11.0183822-06:00",
+    "published_at":  "2026-07-10T04:06:51.5067251-06:00",
+    "captured_at":  "2026-07-10T04:06:51.4126403-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4107.57,
+    "price":  4106.585,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.55,
+                                      "delta":  -0.06,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  -0.425,
+                                      "delta":  -1.075,
                                       "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  -0.925,
+                                     "delta":  -1.715,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  1.105,
-                                     "direction":  "UP"
+                                     "delta":  -0.175,
+                                     "direction":  "DOWN"
                                  }
                       },
     "owner_m5":  null,
@@ -63,7 +63,7 @@
                                                "id":  "sKNDFA",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  17.55,
+                                               "distance":  16.565,
                                                "min_price":  4065.687,
                                                "max_price":  4090.02,
                                                "mid_price":  4077.854,
