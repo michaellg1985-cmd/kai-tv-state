@@ -1,25 +1,25 @@
 ﻿{
-    "published_at":  "2026-07-10T02:56:58.6209406-06:00",
-    "captured_at":  "2026-07-10T02:56:58.4641421-06:00",
+    "published_at":  "2026-07-10T02:57:44.5545200-06:00",
+    "captured_at":  "2026-07-10T02:57:44.3449181-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4098.395,
+    "price":  4096.505,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -0.18,
+                                      "delta":  -0.185,
                                       "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.065,
-                                      "direction":  "UP"
+                                      "delta":  -0.515,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  0.77,
-                                     "direction":  "UP"
+                                     "delta":  -1.6,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  0.42,
-                                     "direction":  "UP"
+                                     "delta":  -1,
+                                     "direction":  "DOWN"
                                  }
                       },
     "owner_m5":  null,
@@ -63,7 +63,7 @@
                                                "id":  "sKNDFA",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  8.375,
+                                               "distance":  6.485,
                                                "min_price":  4065.687,
                                                "max_price":  4090.02,
                                                "mid_price":  4077.854,
