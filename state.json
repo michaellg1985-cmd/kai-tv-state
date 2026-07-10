@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-10T13:38:42.9482349-06:00",
-    "captured_at":  "2026-07-10T13:38:42.8578387-06:00",
+    "published_at":  "2026-07-10T13:39:23.0749755-06:00",
+    "captured_at":  "2026-07-10T13:39:22.9867848-06:00",
     "symbol":  "OANDA:XAUUSD",
     "timeframe":  "1",
-    "price":  4102.845,
+    "price":  4102.58,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.5,
-                                      "direction":  "UP"
+                                      "delta":  -0.2,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  1.015,
-                                      "direction":  "UP"
+                                      "delta":  -0.17,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  1.21,
+                                     "delta":  0.275,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  1,
+                                     "delta":  0.835,
                                      "direction":  "UP"
                                  }
                       },
@@ -63,7 +63,7 @@
                                                "id":  "sKNDFA",
                                                "type":  "trend_line",
                                                "bucket":  "CONTEXTO",
-                                               "distance":  12.825,
+                                               "distance":  12.56,
                                                "min_price":  4065.687,
                                                "max_price":  4090.02,
                                                "mid_price":  4077.854,
