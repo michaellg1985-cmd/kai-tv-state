@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-10T20:38:03.509464+00:00",
-  "count": 11,
+  "generated_at": "2026-07-10T20:39:06.169864+00:00",
+  "count": 12,
   "trades": [
+    {
+      "id": 26,
+      "received_at": "2026-07-10T20:39:01.308433+00:00",
+      "event": "EXIT",
+      "strategy_version": "KAI_BETA_3_1_CYCLE_CONTROL",
+      "symbol": "XAUUSD",
+      "timeframe": "1",
+      "side": "SELL",
+      "price": 4111.03,
+      "entry_price": 4102.05,
+      "sl": 4122.245,
+      "tp": 4061.66,
+      "result_r": -0.44466,
+      "mfe_r": 0.20426,
+      "mae_r": 0.65066,
+      "exit_reason": "TIME_EXIT",
+      "bars_in_trade": 121,
+      "cycle_try": 1,
+      "cycle_dir": -1,
+      "owner_dir": 0,
+      "payload": "{\"event\": \"EXIT\", \"strategy_version\": \"KAI_BETA_3_1_CYCLE_CONTROL\", \"symbol\": \"XAUUSD\", \"timeframe\": \"1\", \"side\": \"SELL\", \"price\": 4111.03, \"entry\": 4102.05, \"sl\": 4122.245, \"tp\": 4061.66, \"mfe_r\": 0.20426, \"mae_r\": 0.65066, \"result_r\": -0.44466, \"exit_reason\": \"TIME_EXIT\", \"bars_in_trade\": 121, \"cycle_try\": 1, \"cycle_dir\": -1, \"owner_dir\": 0, \"bar_index\": 13498, \"bar_time\": 1783715880000}"
+    },
     {
       "id": 25,
       "received_at": "2026-07-10T19:08:01.576319+00:00",
