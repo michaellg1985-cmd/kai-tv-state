@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-10T18:41:15.174856+00:00",
+  "generated_at": "2026-07-10T18:42:17.873767+00:00",
   "database": "C:\\Users\\hp\\kai_bridge_v03.db",
   "strategy_versions": [
     "KAI_BETA_3_1_CYCLE_CONTROL"
   ],
   "summary": {
-    "trades": 9,
-    "wins": 4,
+    "trades": 10,
+    "wins": 5,
     "losses": 5,
     "breakeven": 0,
-    "win_rate": 0.4444444444444444,
-    "gross_win_r": 4.06346,
+    "win_rate": 0.5,
+    "gross_win_r": 5.31346,
     "gross_loss_r": 5.0,
-    "net_r": -0.9365399999999999,
-    "profit_factor": 0.812692,
-    "expectancy_r": -0.10405999999999999,
+    "net_r": 0.31346,
+    "profit_factor": 1.062692,
+    "expectancy_r": 0.031346,
     "max_drawdown_r": 3.43654,
-    "average_bars": 13.444444444444445,
-    "average_mfe_r": 0.7587666666666667,
-    "average_mae_r": 0.04634777777777778,
+    "average_bars": 12.1,
+    "average_mfe_r": 0.8086800000000001,
+    "average_mae_r": 0.041713,
     "by_side": {
       "BUY": {
         "trades": 1,
@@ -28,17 +28,17 @@
         "expectancy_r": -1.0
       },
       "SELL": {
-        "trades": 8,
-        "wins": 4,
+        "trades": 9,
+        "wins": 5,
         "losses": 4,
-        "net_r": 0.06346000000000002,
-        "expectancy_r": 0.007932500000000002
+        "net_r": 1.31346,
+        "expectancy_r": 0.14594000000000001
       }
     },
     "by_exit_reason": {
       "UNKNOWN": {
-        "trades": 8,
-        "net_r": -1.25
+        "trades": 9,
+        "net_r": 0.0
       },
       "TIME_EXIT": {
         "trades": 1,
