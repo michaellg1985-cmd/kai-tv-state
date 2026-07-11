@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-10T20:55:13.4344043-06:00",
-    "captured_at":  "2026-07-10T20:55:13.3328841-06:00",
+    "published_at":  "2026-07-10T20:55:52.6622436-06:00",
+    "captured_at":  "2026-07-10T20:55:52.5134384-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64111.44,
+    "price":  64122.21,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -2.31,
-                                      "direction":  "DOWN"
+                                      "delta":  2.42,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -15.75,
-                                      "direction":  "DOWN"
+                                      "delta":  11.3,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -13.1,
+                                     "delta":  -4.96,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -7.21,
-                                     "direction":  "DOWN"
+                                     "delta":  8.46,
+                                     "direction":  "UP"
                                  }
                       },
     "owner_m5":  "LONG 66",
-    "sequence":  "RESET CAPTURED",
-    "action":  "M1 RESET LONG",
+    "sequence":  "WAIT MICRO BREAK",
+    "action":  "M1 REALIGN LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "63.2",
-    "stoch_kd":  "16.2/76.1",
-    "macd_hist":  "-2.2638",
-    "volume_state":  "BAJO AVG",
+    "rsi":  "66.3",
+    "stoch_kd":  "79.9/97.3",
+    "macd_hist":  "-1.6652",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  4,
     "visual_context":  {
                            "near_count":  0,
