@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-10T18:40:29.1328032-06:00",
-    "captured_at":  "2026-07-10T18:40:29.0110800-06:00",
+    "published_at":  "2026-07-10T18:41:07.3977248-06:00",
+    "captured_at":  "2026-07-10T18:41:07.2666352-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64037.2,
+    "price":  64046.91,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  1.27,
+                                      "delta":  7.79,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  5.41,
+                                      "delta":  12.08,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  9.8,
+                                     "delta":  15.12,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  -47.51,
+                                     "delta":  -3.6,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "SL -1R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "41.9",
-    "stoch_kd":  "21.1/12.8",
-    "macd_hist":  "-3.7949",
+    "rsi":  "44.7",
+    "stoch_kd":  "29.2/21.8",
+    "macd_hist":  "-2.5954",
     "volume_state":  "BAJO AVG",
     "drawings_count":  4,
     "visual_context":  {
