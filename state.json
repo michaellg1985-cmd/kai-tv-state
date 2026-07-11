@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-10T19:21:23.6032181-06:00",
-    "captured_at":  "2026-07-10T19:21:23.4960653-06:00",
+    "published_at":  "2026-07-10T19:22:01.4211679-06:00",
+    "captured_at":  "2026-07-10T19:22:01.3229193-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64169.8,
+    "price":  64229.25,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  3.12,
+                                      "delta":  31.52,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  5.55,
+                                      "delta":  57.72,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  8.39,
+                                     "delta":  65,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  60.22,
+                                     "delta":  125.17,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 67",
-    "sequence":  "OWNER LOCKED M5",
-    "action":  "GO LONG",
-    "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "71.8",
-    "stoch_kd":  "109.4/113.2",
-    "macd_hist":  "6.2366",
-    "volume_state":  "BAJO AVG",
+    "owner_m5":  "LONG 69",
+    "sequence":  "WAIT M1 RESET",
+    "action":  "TP +1.25R",
+    "verdict":  "SIN RUNNER ACTIVO",
+    "rsi":  "80.7",
+    "stoch_kd":  "211.5/147.2",
+    "macd_hist":  "10.2226",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  4,
     "visual_context":  {
                            "near_count":  0,
