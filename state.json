@@ -1,17 +1,34 @@
 ﻿{
-    "published_at":  "2026-07-10T21:47:23.7158587-06:00",
-    "captured_at":  "2026-07-10T21:47:23.5031834-06:00",
+    "published_at":  "2026-07-10T21:48:11.5029987-06:00",
+    "captured_at":  "2026-07-10T21:48:11.3189507-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  null,
-    "market_memory":  null,
+    "price":  64129.9,
+    "market_memory":  {
+                          "s10":  {
+                                      "delta":  0,
+                                      "direction":  "FLAT"
+                                  },
+                          "s30":  {
+                                      "delta":  0,
+                                      "direction":  "FLAT"
+                                  },
+                          "m1":  {
+                                     "delta":  -3.7,
+                                     "direction":  "DOWN"
+                                 },
+                          "m5":  {
+                                     "delta":  -10.01,
+                                     "direction":  "DOWN"
+                                 }
+                      },
     "owner_m5":  "LONG 60",
     "sequence":  "OWNER LOCKED M5",
     "action":  "GO LONG",
     "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "52.8",
-    "stoch_kd":  "70.2/70.4",
-    "macd_hist":  "0.8008",
+    "rsi":  "50.9",
+    "stoch_kd":  "73.3/78.9",
+    "macd_hist":  "0.2605",
     "volume_state":  "BAJO AVG",
     "drawings_count":  4,
     "visual_context":  {
