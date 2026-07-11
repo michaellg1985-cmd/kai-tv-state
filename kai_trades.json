@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-11T01:35:36.063610+00:00",
-  "count": 14,
+  "generated_at": "2026-07-11T01:36:38.577531+00:00",
+  "count": 15,
   "trades": [
+    {
+      "id": 34,
+      "received_at": "2026-07-11T01:36:01.690340+00:00",
+      "event": "EXIT",
+      "strategy_version": null,
+      "symbol": "BTCUSD",
+      "timeframe": "1",
+      "side": "BUY",
+      "price": 64166.77,
+      "entry_price": 64222.53,
+      "sl": 64169.07,
+      "tp": 64289.36,
+      "result_r": -1.0,
+      "mfe_r": 0.274,
+      "mae_r": null,
+      "exit_reason": null,
+      "bars_in_trade": null,
+      "cycle_try": null,
+      "cycle_dir": null,
+      "owner_dir": null,
+      "payload": "{\"event\": \"EXIT\", \"version\": \"v1.9.8 BRIDGE OUTPUT LAB\", \"symbol\": \"BTCUSD\", \"timeframe\": \"1\", \"side\": \"BUY\", \"price\": 64166.77, \"entry\": 64222.53, \"sl\": 64169.07, \"tp\": 64289.36, \"rr\": 1.25, \"result_r\": -1, \"mfe_r\": 0.274, \"giveback_r\": 1.317, \"reason\": \"SL\", \"quality\": \"KAI_EXIT\", \"score\": 0}"
+    },
     {
       "id": 32,
       "received_at": "2026-07-11T01:22:02.550431+00:00",
