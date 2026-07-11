@@ -1,7 +1,7 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T22:04:04.866318-06:00",
-  "published_at": "2026-07-10T22:04:02.9841766-06:00",
+  "read_at": "2026-07-10T22:04:51.614280-06:00",
+  "published_at": "2026-07-10T22:04:50.8087045-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
   "price": 64129.9,
@@ -22,11 +22,16 @@
   "kai_action": "GO LONG",
   "kai_verdict": "ESTRUCTURA INTACTA - DEJAR CORRER",
   "reading": "NO_CONFIRMATION",
-  "transition_state": "NEUTRAL",
-  "cycle_state": "ACCUMULATION_UNRESOLVED",
+  "transition_state": "UP_RESUME",
+  "cycle_state": "UP_CYCLE",
   "cycle_span": 0.0,
-  "cycle_anchor": null,
-  "induction_candidate": null,
+  "cycle_anchor": 64129.9,
+  "induction_candidate": {
+    "side": "DOWN",
+    "price": 64129.9,
+    "start_price": 64139.95,
+    "extreme_price": 64128.12
+  },
   "active_trap": null,
   "memory_depth": 13
 }
