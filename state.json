@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-10T21:18:05.5936242-06:00",
-    "captured_at":  "2026-07-10T21:18:05.4751490-06:00",
+    "published_at":  "2026-07-10T21:18:44.4236969-06:00",
+    "captured_at":  "2026-07-10T21:18:44.2872021-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64095.34,
+    "price":  64056.94,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  -62.51,
-                                      "direction":  "DOWN"
+                                      "delta":  2.74,
+                                      "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  -59.03,
-                                      "direction":  "DOWN"
+                                      "delta":  5.69,
+                                      "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  -59.03,
+                                     "delta":  -97.44,
                                      "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  -48.79,
+                                     "delta":  -92.35,
                                      "direction":  "DOWN"
                                  }
                       },
-    "owner_m5":  "LONG 71",
-    "sequence":  "OWNER LOCKED M5",
-    "action":  "GO LONG",
-    "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
-    "rsi":  "66.9",
-    "stoch_kd":  "106.9/112",
-    "macd_hist":  "1.6949",
-    "volume_state":  "BAJO AVG",
+    "owner_m5":  "WAIT",
+    "sequence":  "WAIT M1 RESET",
+    "action":  "SL -1R",
+    "verdict":  "SIN RUNNER ACTIVO",
+    "rsi":  "31.4",
+    "stoch_kd":  "103.8/107.7",
+    "macd_hist":  "-5.1809",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  4,
     "visual_context":  {
                            "near_count":  0,
