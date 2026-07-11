@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-10T19:28:59.0245816-06:00",
-    "captured_at":  "2026-07-10T19:28:58.9161734-06:00",
+    "published_at":  "2026-07-10T19:29:37.1640847-06:00",
+    "captured_at":  "2026-07-10T19:29:37.0607757-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64199.64,
+    "price":  64200.5,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  4.08,
+                                      "delta":  4.41,
                                       "direction":  "UP"
                                   },
                           "s30":  {
-                                      "delta":  8.85,
-                                      "direction":  "UP"
+                                      "delta":  -0.58,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  8.3,
+                                     "delta":  10.03,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  -24.88,
+                                     "delta":  -9.85,
                                      "direction":  "DOWN"
                                  }
                       },
@@ -26,10 +26,10 @@
     "sequence":  "WAIT MICRO BREAK",
     "action":  "M1 REALIGN LONG",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "61.5",
-    "stoch_kd":  "80.4/87.2",
-    "macd_hist":  "2.3907",
-    "volume_state":  "SOBRE AVG",
+    "rsi":  "60.4",
+    "stoch_kd":  "83.4/85.1",
+    "macd_hist":  "0.8658",
+    "volume_state":  "BAJO AVG",
     "drawings_count":  4,
     "visual_context":  {
                            "near_count":  0,
