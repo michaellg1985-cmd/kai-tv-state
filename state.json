@@ -1,35 +1,35 @@
 ﻿{
-    "published_at":  "2026-07-10T19:23:18.5044504-06:00",
-    "captured_at":  "2026-07-10T19:23:18.3763469-06:00",
+    "published_at":  "2026-07-10T19:23:57.2837574-06:00",
+    "captured_at":  "2026-07-10T19:23:57.1783107-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64270.18,
+    "price":  64226.45,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  2.91,
-                                      "direction":  "UP"
+                                      "delta":  -8.09,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  33.17,
-                                      "direction":  "UP"
+                                      "delta":  -38.15,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  34.32,
-                                     "direction":  "UP"
+                                     "delta":  -14.72,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  132.95,
+                                     "delta":  68.58,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 70",
+    "owner_m5":  "LONG 67",
     "sequence":  "WAIT M1 RESET",
     "action":  "TP +1.25R",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "84.3",
-    "stoch_kd":  "120.2/149.8",
-    "macd_hist":  "15.7723",
-    "volume_state":  "BAJO AVG",
+    "rsi":  "75.1",
+    "stoch_kd":  "138.8/156",
+    "macd_hist":  "12.9107",
+    "volume_state":  "SOBRE AVG",
     "drawings_count":  4,
     "visual_context":  {
                            "near_count":  0,
