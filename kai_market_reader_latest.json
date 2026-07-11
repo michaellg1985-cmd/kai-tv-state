@@ -1,10 +1,10 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T19:12:01.411094-06:00",
-  "published_at": "2026-07-10T19:11:59.5325575-06:00",
+  "read_at": "2026-07-10T19:12:37.475477-06:00",
+  "published_at": "2026-07-10T19:12:36.9813205-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
-  "price": 64102.73,
+  "price": 64104.44,
   "windows": {
     "s10": "UP",
     "s30": "UP",
@@ -17,20 +17,20 @@
   "volume": "BAJO AVG",
   "zone_state": "NO_NEAR_DRAWING",
   "nearest_drawing": null,
-  "kai_owner": "LONG 59",
+  "kai_owner": "LONG 60",
   "kai_sequence": "OWNER LOCKED M5",
   "kai_action": "GO LONG",
   "kai_verdict": "ESTRUCTURA INTACTA - DEJAR CORRER",
   "reading": "PULLBACK_AGAINST_UP",
   "transition_state": "BOUNCE_ATTEMPT",
   "cycle_state": "INDUCTION_CANDIDATE_UP",
-  "cycle_span": 7.49,
+  "cycle_span": 3.76,
   "cycle_anchor": 64100.68,
   "induction_candidate": {
     "side": "UP",
-    "price": 64102.73,
+    "price": 64104.44,
     "start_price": 64102.73,
-    "extreme_price": 64102.73
+    "extreme_price": 64104.44
   },
   "active_trap": null,
   "memory_depth": 13
