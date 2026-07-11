@@ -1,17 +1,17 @@
 {
   "reader_version": "1.0-one-click",
-  "read_at": "2026-07-11T01:59:11.518979-06:00",
-  "published_at": "2026-07-11T01:59:10.546079-06:00",
+  "read_at": "2026-07-11T01:59:31.565550-06:00",
+  "published_at": "2026-07-11T01:59:30.788213-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
-  "price": 64128.23,
+  "price": 64123.23,
   "windows": {
     "s10": "UP",
-    "s30": "UP",
-    "m1": "UP",
-    "m5": "UP"
+    "s30": "DOWN",
+    "m1": "DOWN",
+    "m5": "DOWN"
   },
-  "pressure": "PRESSURE_UP",
+  "pressure": "BIAS_DOWN",
   "momentum": "MIXED",
   "reading": "NO_CONFIRMATION",
   "owner_m5": null,
