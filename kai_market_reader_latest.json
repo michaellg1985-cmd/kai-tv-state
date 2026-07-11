@@ -1,18 +1,18 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T21:42:20.258070-06:00",
-  "published_at": "2026-07-10T21:42:19.4834332-06:00",
+  "read_at": "2026-07-10T21:43:00.335796-06:00",
+  "published_at": "2026-07-10T21:42:58.7319029-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
-  "price": 64147.6,
+  "price": 64139.95,
   "windows": {
-    "s10": "UP",
+    "s10": "DOWN",
     "s30": "DOWN",
     "m1": "DOWN",
     "m5": "UP"
   },
-  "pressure": "MIXED",
-  "alignment": "MIXED",
+  "pressure": "BIAS_DOWN",
+  "alignment": "3/4_DOWN",
   "momentum": "MIXED",
   "volume": "BAJO AVG",
   "zone_state": "NO_NEAR_DRAWING",
@@ -22,11 +22,16 @@
   "kai_action": "GO LONG",
   "kai_verdict": "ESTRUCTURA INTACTA - DEJAR CORRER",
   "reading": "NO_CONFIRMATION",
-  "transition_state": "UP_TREND",
-  "cycle_state": "UP_CYCLE",
-  "cycle_span": 13.51,
+  "transition_state": "PULLBACK_ATTEMPT",
+  "cycle_state": "INDUCTION_CANDIDATE_DOWN",
+  "cycle_span": 17.28,
   "cycle_anchor": 64147.6,
-  "induction_candidate": null,
+  "induction_candidate": {
+    "side": "DOWN",
+    "price": 64139.95,
+    "start_price": 64139.95,
+    "extreme_price": 64139.95
+  },
   "active_trap": null,
   "memory_depth": 13
 }
