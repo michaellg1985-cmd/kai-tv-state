@@ -1,24 +1,24 @@
 ﻿{
-    "published_at":  "2026-07-10T19:48:31.5777851-06:00",
-    "captured_at":  "2026-07-10T19:48:31.4991237-06:00",
+    "published_at":  "2026-07-10T19:49:09.6924366-06:00",
+    "captured_at":  "2026-07-10T19:49:09.5534238-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64048.39,
+    "price":  64069.46,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  4.01,
-                                      "direction":  "UP"
+                                      "delta":  -4.75,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  5.64,
+                                      "delta":  20.34,
                                       "direction":  "UP"
                                   },
                           "m1":  {
-                                     "delta":  13.67,
+                                     "delta":  25.08,
                                      "direction":  "UP"
                                  },
                           "m5":  {
-                                     "delta":  1.84,
+                                     "delta":  24.9,
                                      "direction":  "UP"
                                  }
                       },
@@ -26,9 +26,9 @@
     "sequence":  "WAIT M1 RESET",
     "action":  "OWNER LOST",
     "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "40.6",
-    "stoch_kd":  "30.8/25.1",
-    "macd_hist":  "-5.7422",
+    "rsi":  "45.6",
+    "stoch_kd":  "46.1/40.7",
+    "macd_hist":  "-0.5915",
     "volume_state":  "BAJO AVG",
     "drawings_count":  4,
     "visual_context":  {
