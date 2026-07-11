@@ -1,18 +1,18 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T18:41:45.875929-06:00",
-  "published_at": "2026-07-10T18:41:44.8621654-06:00",
+  "read_at": "2026-07-10T18:42:23.933731-06:00",
+  "published_at": "2026-07-10T18:42:22.7188814-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
-  "price": 64048.96,
+  "price": 64065.07,
   "windows": {
-    "s10": "FLAT",
+    "s10": "UP",
     "s30": "UP",
     "m1": "UP",
     "m5": "UP"
   },
-  "pressure": "BIAS_UP",
-  "alignment": "3/4_UP",
+  "pressure": "PRESSURE_UP",
+  "alignment": "FULL_UP",
   "momentum": "MIXED",
   "volume": "BAJO AVG",
   "zone_state": "NO_NEAR_DRAWING",
@@ -24,13 +24,13 @@
   "reading": "NO_CONFIRMATION",
   "transition_state": "BOUNCE_ATTEMPT",
   "cycle_state": "INDUCTION_CANDIDATE_UP",
-  "cycle_span": 23.5,
+  "cycle_span": 39.09,
   "cycle_anchor": 64025.98,
   "induction_candidate": {
     "side": "UP",
-    "price": 64048.96,
+    "price": 64065.07,
     "start_price": 64028.69,
-    "extreme_price": 64048.96
+    "extreme_price": 64065.07
   },
   "active_trap": null,
   "memory_depth": 13
