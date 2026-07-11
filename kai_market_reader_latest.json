@@ -1,7 +1,7 @@
 {
-  "reader_version": "0.6.1",
-  "read_at": "2026-07-10T22:04:51.614280-06:00",
-  "published_at": "2026-07-10T22:04:50.8087045-06:00",
+  "reader_version": "1.0-one-click",
+  "read_at": "2026-07-10T22:12:43.345529-06:00",
+  "published_at": "2026-07-10T22:05:32.7343004-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
   "price": 64129.9,
@@ -12,26 +12,10 @@
     "m5": "FLAT"
   },
   "pressure": "MIXED",
-  "alignment": "MIXED",
   "momentum": "MIXED",
-  "volume": "BAJO AVG",
-  "zone_state": "NO_NEAR_DRAWING",
-  "nearest_drawing": null,
-  "kai_owner": "LONG 60",
-  "kai_sequence": "OWNER LOCKED M5",
-  "kai_action": "GO LONG",
-  "kai_verdict": "ESTRUCTURA INTACTA - DEJAR CORRER",
   "reading": "NO_CONFIRMATION",
-  "transition_state": "UP_RESUME",
-  "cycle_state": "UP_CYCLE",
-  "cycle_span": 0.0,
-  "cycle_anchor": 64129.9,
-  "induction_candidate": {
-    "side": "DOWN",
-    "price": 64129.9,
-    "start_price": 64139.95,
-    "extreme_price": 64128.12
-  },
-  "active_trap": null,
-  "memory_depth": 13
+  "owner_m5": "LONG 60",
+  "sequence": "OWNER LOCKED M5",
+  "action": "GO LONG",
+  "verdict": "ESTRUCTURA INTACTA - DEJAR CORRER"
 }
