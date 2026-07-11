@@ -1,34 +1,34 @@
 ﻿{
-    "published_at":  "2026-07-10T20:58:27.8094985-06:00",
-    "captured_at":  "2026-07-10T20:58:27.6751966-06:00",
+    "published_at":  "2026-07-10T20:59:07.0984048-06:00",
+    "captured_at":  "2026-07-10T20:59:06.9725442-06:00",
     "symbol":  "INDEX:BTCUSD",
     "timeframe":  "1",
-    "price":  64130.27,
+    "price":  64129.2,
     "market_memory":  {
                           "s10":  {
-                                      "delta":  0.52,
-                                      "direction":  "UP"
+                                      "delta":  -5.37,
+                                      "direction":  "DOWN"
                                   },
                           "s30":  {
-                                      "delta":  0.46,
-                                      "direction":  "UP"
+                                      "delta":  -1.08,
+                                      "direction":  "DOWN"
                                   },
                           "m1":  {
-                                     "delta":  4.71,
-                                     "direction":  "UP"
+                                     "delta":  -0.52,
+                                     "direction":  "DOWN"
                                  },
                           "m5":  {
-                                     "delta":  8.23,
+                                     "delta":  4.71,
                                      "direction":  "UP"
                                  }
                       },
-    "owner_m5":  "LONG 67",
-    "sequence":  "WAIT MICRO BREAK",
-    "action":  "M1 REALIGN LONG",
-    "verdict":  "SIN RUNNER ACTIVO",
-    "rsi":  "69",
-    "stoch_kd":  "102.2/112.5",
-    "macd_hist":  "-1.6964",
+    "owner_m5":  "LONG 66",
+    "sequence":  "OWNER LOCKED M5",
+    "action":  "GO LONG",
+    "verdict":  "ESTRUCTURA INTACTA - DEJAR CORRER",
+    "rsi":  "69.6",
+    "stoch_kd":  "100/120.5",
+    "macd_hist":  "-1.6815",
     "volume_state":  "BAJO AVG",
     "drawings_count":  4,
     "visual_context":  {
