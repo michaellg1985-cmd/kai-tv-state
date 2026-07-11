@@ -1,19 +1,19 @@
 {
   "reader_version": "0.6.1",
-  "read_at": "2026-07-10T20:11:53.840379-06:00",
-  "published_at": "2026-07-10T20:11:52.9900401-06:00",
+  "read_at": "2026-07-10T20:12:31.979101-06:00",
+  "published_at": "2026-07-10T20:12:31.1468684-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
-  "price": 64025.25,
+  "price": 64001.28,
   "windows": {
-    "s10": "UP",
-    "s30": "UP",
-    "m1": "UP",
-    "m5": "UP"
+    "s10": "DOWN",
+    "s30": "DOWN",
+    "m1": "DOWN",
+    "m5": "DOWN"
   },
-  "pressure": "PRESSURE_UP",
-  "alignment": "FULL_UP",
-  "momentum": "POSITIVE",
+  "pressure": "PRESSURE_DOWN",
+  "alignment": "FULL_DOWN",
+  "momentum": "MIXED",
   "volume": "BAJO AVG",
   "zone_state": "NO_NEAR_DRAWING",
   "nearest_drawing": null,
@@ -21,16 +21,16 @@
   "kai_sequence": "WAIT M1 RESET",
   "kai_action": "OWNER LOST",
   "kai_verdict": "SIN RUNNER ACTIVO",
-  "reading": "UP_CONFIRMED",
-  "transition_state": "UP_RESUME",
-  "cycle_state": "UP_CYCLE",
-  "cycle_span": 15.73,
+  "reading": "NO_CONFIRMATION",
+  "transition_state": "PULLBACK_ATTEMPT",
+  "cycle_state": "INDUCTION_CANDIDATE_DOWN",
+  "cycle_span": 23.97,
   "cycle_anchor": 64025.25,
   "induction_candidate": {
     "side": "DOWN",
-    "price": 64025.25,
+    "price": 64001.28,
     "start_price": 64009.52,
-    "extreme_price": 64009.52
+    "extreme_price": 64001.28
   },
   "active_trap": null,
   "memory_depth": 13
