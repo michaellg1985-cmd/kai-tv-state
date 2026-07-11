@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-11T01:12:40.782439+00:00",
-  "count": 30,
+  "generated_at": "2026-07-11T01:13:43.446551+00:00",
+  "count": 31,
   "events": [
+    {
+      "id": 31,
+      "received_at": "2026-07-11T01:13:02.559890+00:00",
+      "event": "ENTRY",
+      "strategy_version": "KAI_BETA_3_1_CYCLE_CONTROL",
+      "symbol": "BTCUSD",
+      "timeframe": "1",
+      "side": "BUY",
+      "price": 64105.91,
+      "entry_price": 64105.91,
+      "sl": 62144.74,
+      "tp": 68028.25,
+      "result_r": null,
+      "mfe_r": null,
+      "mae_r": null,
+      "exit_reason": null,
+      "bars_in_trade": null,
+      "cycle_try": 1,
+      "cycle_dir": 1,
+      "owner_dir": 1,
+      "payload": "{\"event\": \"ENTRY\", \"strategy_version\": \"KAI_BETA_3_1_CYCLE_CONTROL\", \"symbol\": \"BTCUSD\", \"timeframe\": \"1\", \"side\": \"BUY\", \"price\": 64105.91, \"entry\": 64105.91, \"sl\": 62144.74, \"tp\": 68028.25, \"risk_r\": 1961.17, \"cycle_try\": 1, \"cycle_dir\": 1, \"owner_dir\": 1, \"bar_index\": 17352, \"bar_time\": 1783732320000}"
+    },
     {
       "id": 30,
       "received_at": "2026-07-11T01:06:02.461493+00:00",
