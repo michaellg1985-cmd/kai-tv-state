@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-12T01:13:51.866232-06:00",
-  "captured_at": "2026-07-12T01:13:51.822509-06:00",
+  "published_at": "2026-07-12T01:14:13.405629-06:00",
+  "captured_at": "2026-07-12T01:14:13.379612-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
   "price": 63770.42,
   "market_memory": {
     "s10": {
+      "delta": 0.0,
+      "direction": "FLAT"
+    },
+    "s30": {
       "delta": 0.02,
       "direction": "UP"
     },
-    "s30": {
+    "m1": {
       "delta": -0.37,
       "direction": "DOWN"
     },
-    "m1": {
-      "delta": -0.92,
-      "direction": "DOWN"
-    },
     "m5": {
-      "delta": 0.45,
+      "delta": 0.78,
       "direction": "UP"
     }
   },
