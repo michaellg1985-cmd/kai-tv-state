@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-12T14:45:57.700828-06:00",
-  "captured_at": "2026-07-12T14:45:57.661572-06:00",
+  "published_at": "2026-07-12T14:46:43.592744-06:00",
+  "captured_at": "2026-07-12T14:46:43.550742-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "1",
-  "price": 64180.45,
+  "price": 64183.36,
   "market_memory": {
     "s10": {
-      "delta": -3.57,
-      "direction": "DOWN"
+      "delta": 2.12,
+      "direction": "UP"
     },
     "s30": {
-      "delta": -3.42,
-      "direction": "DOWN"
+      "delta": 1.59,
+      "direction": "UP"
     },
     "m1": {
-      "delta": -6.01,
+      "delta": -0.91,
       "direction": "DOWN"
     },
     "m5": {
-      "delta": 19.37,
+      "delta": 19.01,
       "direction": "UP"
     }
   },
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 0,
     "context_count": 0,
-    "historic_count": 4,
+    "historic_count": 3,
     "near": [],
     "context": []
   },
@@ -152,50 +152,9 @@
         "name": "trend_line"
       },
       {
-        "success": true,
+        "success": false,
         "entity_id": "f4sX24",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 987.5211119416344,
-            "time": 1561593660
-          },
-          {
-            "price": 41278.261386777216,
-            "time": 1857686400
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(41, 98, 255, 1)",
-          "textcolor": "#2962FF",
-          "linewidth": 2,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "center",
-          "vertLabelsAlign": "bottom",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
+        "error": "Command '['node', 'C:\\\\Users\\\\hp\\\\tradingview-mcp\\\\src\\\\cli\\\\index.js', 'draw', 'get', 'f4sX24']' timed out after 20 seconds"
       },
       {
         "success": true,
