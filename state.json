@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-13T00:29:56.042325-06:00",
-  "captured_at": "2026-07-13T00:29:55.942836-06:00",
+  "published_at": "2026-07-13T00:30:38.454104-06:00",
+  "captured_at": "2026-07-13T00:30:38.405011-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4061.26,
+  "price": 4059.675,
   "market_memory": {
     "s10": {
-      "delta": 1.255,
+      "delta": 0.29,
       "direction": "UP"
     },
     "s30": {
-      "delta": 1.435,
-      "direction": "UP"
+      "delta": -1.4,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 2.605,
-      "direction": "UP"
+      "delta": -0.525,
+      "direction": "DOWN"
     },
     "m5": {
-      "delta": 5.52,
+      "delta": 2.145,
       "direction": "UP"
     }
   },
@@ -32,8 +32,8 @@
   "volume_state": null,
   "drawings_count": 18,
   "visual_context": {
-    "near_count": 3,
-    "context_count": 1,
+    "near_count": 2,
+    "context_count": 2,
     "historic_count": 14,
     "near": [
       {
@@ -54,27 +54,6 @@
           {
             "price": 4118.085365829339,
             "time": 1782756600
-          }
-        ]
-      },
-      {
-        "id": "sKNDFA",
-        "type": "trend_line",
-        "bucket": "CERCA",
-        "distance": 4.427,
-        "min_price": 4065.687,
-        "max_price": 4090.02,
-        "mid_price": 4077.854,
-        "text": "",
-        "visible": true,
-        "points": [
-          {
-            "price": 4090.02,
-            "time": 1783559940
-          },
-          {
-            "price": 4065.6872186902397,
-            "time": 1783585740
           }
         ]
       },
@@ -105,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 6.238,
+        "distance": 7.823,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -115,6 +94,27 @@
           {
             "price": 4067.4975511302196,
             "time": 1783578120
+          }
+        ]
+      },
+      {
+        "id": "sKNDFA",
+        "type": "trend_line",
+        "bucket": "CONTEXTO",
+        "distance": 6.012,
+        "min_price": 4065.687,
+        "max_price": 4090.02,
+        "mid_price": 4077.854,
+        "text": "",
+        "visible": true,
+        "points": [
+          {
+            "price": 4090.02,
+            "time": 1783559940
+          },
+          {
+            "price": 4065.6872186902397,
+            "time": 1783585740
           }
         ]
       }
