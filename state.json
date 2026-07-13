@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-13T07:15:18.678385-06:00",
-  "captured_at": "2026-07-13T07:15:18.661144-06:00",
+  "published_at": "2026-07-13T07:15:35.680980-06:00",
+  "captured_at": "2026-07-13T07:15:35.662133-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4061.28,
+  "price": 4059.83,
   "market_memory": {
     "s10": {
-      "delta": -0.385,
+      "delta": -0.32,
       "direction": "DOWN"
     },
     "s30": {
-      "delta": -1.015,
+      "delta": -1.645,
       "direction": "DOWN"
     },
     "m1": {
-      "delta": -1.0,
+      "delta": -2.33,
       "direction": "DOWN"
     },
     "m5": {
-      "delta": -0.735,
+      "delta": -1.41,
       "direction": "DOWN"
     }
   },
@@ -32,8 +32,8 @@
   "volume_state": null,
   "drawings_count": 18,
   "visual_context": {
-    "near_count": 3,
-    "context_count": 1,
+    "near_count": 2,
+    "context_count": 2,
     "historic_count": 14,
     "near": [
       {
@@ -54,27 +54,6 @@
           {
             "price": 4118.085365829339,
             "time": 1782756600
-          }
-        ]
-      },
-      {
-        "id": "sKNDFA",
-        "type": "trend_line",
-        "bucket": "CERCA",
-        "distance": 4.407,
-        "min_price": 4065.687,
-        "max_price": 4090.02,
-        "mid_price": 4077.854,
-        "text": "",
-        "visible": true,
-        "points": [
-          {
-            "price": 4090.02,
-            "time": 1783559940
-          },
-          {
-            "price": 4065.6872186902397,
-            "time": 1783585740
           }
         ]
       },
@@ -105,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 6.218,
+        "distance": 7.668,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -115,6 +94,27 @@
           {
             "price": 4067.4975511302196,
             "time": 1783578120
+          }
+        ]
+      },
+      {
+        "id": "sKNDFA",
+        "type": "trend_line",
+        "bucket": "CONTEXTO",
+        "distance": 5.857,
+        "min_price": 4065.687,
+        "max_price": 4090.02,
+        "mid_price": 4077.854,
+        "text": "",
+        "visible": true,
+        "points": [
+          {
+            "price": 4090.02,
+            "time": 1783559940
+          },
+          {
+            "price": 4065.6872186902397,
+            "time": 1783585740
           }
         ]
       }
