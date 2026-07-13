@@ -1,25 +1,25 @@
 {
-  "published_at": "2026-07-12T20:46:25.953519-06:00",
-  "captured_at": "2026-07-12T20:46:25.926510-06:00",
+  "published_at": "2026-07-12T20:46:51.142579-06:00",
+  "captured_at": "2026-07-12T20:46:51.082760-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4071.63,
+  "price": 4072.25,
   "market_memory": {
     "s10": {
-      "delta": -0.565,
-      "direction": "DOWN"
+      "delta": 0.65,
+      "direction": "UP"
     },
     "s30": {
-      "delta": -1.105,
-      "direction": "DOWN"
+      "delta": 0.405,
+      "direction": "UP"
     },
     "m1": {
-      "delta": -0.63,
+      "delta": -0.48,
       "direction": "DOWN"
     },
     "m5": {
-      "delta": -1.07,
-      "direction": "DOWN"
+      "delta": 0.115,
+      "direction": "UP"
     }
   },
   "owner_m5": null,
@@ -61,7 +61,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CERCA",
-        "distance": 4.132,
+        "distance": 4.752,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
