@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-12T20:05:17.819516-06:00",
-  "captured_at": "2026-07-12T20:05:17.766259-06:00",
+  "published_at": "2026-07-12T20:05:54.594293-06:00",
+  "captured_at": "2026-07-12T20:05:54.527747-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4073.1,
+  "price": 4071.33,
   "market_memory": {
     "s10": {
-      "delta": 2.145,
-      "direction": "UP"
+      "delta": -1.1,
+      "direction": "DOWN"
     },
     "s30": {
-      "delta": 2.815,
-      "direction": "UP"
+      "delta": -2.13,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 0.185,
-      "direction": "UP"
+      "delta": -0.26,
+      "direction": "DOWN"
     },
     "m5": {
-      "delta": -59288.75,
+      "delta": -59327.42,
       "direction": "DOWN"
     }
   },
@@ -32,8 +32,8 @@
   "volume_state": null,
   "drawings_count": 18,
   "visual_context": {
-    "near_count": 3,
-    "context_count": 1,
+    "near_count": 4,
+    "context_count": 0,
     "historic_count": 14,
     "near": [
       {
@@ -54,6 +54,23 @@
           {
             "price": 4118.085365829339,
             "time": 1782756600
+          }
+        ]
+      },
+      {
+        "id": "CkIExi",
+        "type": "vertical_line",
+        "bucket": "CERCA",
+        "distance": 3.832,
+        "min_price": 4067.498,
+        "max_price": 4067.498,
+        "mid_price": 4067.498,
+        "text": "zona mike",
+        "visible": true,
+        "points": [
+          {
+            "price": 4067.4975511302196,
+            "time": 1783578120
           }
         ]
       },
@@ -82,7 +99,7 @@
         "id": "bAAKkF",
         "type": "trend_line",
         "bucket": "CERCA",
-        "distance": 0.663,
+        "distance": 0.0,
         "min_price": 4048.104,
         "max_price": 4072.437,
         "mid_price": 4060.27,
@@ -100,25 +117,7 @@
         ]
       }
     ],
-    "context": [
-      {
-        "id": "CkIExi",
-        "type": "vertical_line",
-        "bucket": "CONTEXTO",
-        "distance": 5.602,
-        "min_price": 4067.498,
-        "max_price": 4067.498,
-        "mid_price": 4067.498,
-        "text": "zona mike",
-        "visible": true,
-        "points": [
-          {
-            "price": 4067.4975511302196,
-            "time": 1783578120
-          }
-        ]
-      }
-    ]
+    "context": []
   },
   "drawings": {
     "count": 18,
