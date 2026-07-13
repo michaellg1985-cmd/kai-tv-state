@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-13T05:03:20.711544-06:00",
-  "captured_at": "2026-07-13T05:03:20.686821-06:00",
+  "published_at": "2026-07-13T05:03:32.245204-06:00",
+  "captured_at": "2026-07-13T05:03:32.220733-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4062.16,
+  "price": 4062.505,
   "market_memory": {
     "s10": {
-      "delta": 0.725,
+      "delta": 0.64,
       "direction": "UP"
     },
     "s30": {
-      "delta": 1.12,
+      "delta": 1.595,
       "direction": "UP"
     },
     "m1": {
-      "delta": 1.61,
+      "delta": 1.755,
       "direction": "UP"
     },
     "m5": {
-      "delta": 1.225,
+      "delta": 1.365,
       "direction": "UP"
     }
   },
@@ -32,8 +32,8 @@
   "volume_state": null,
   "drawings_count": 18,
   "visual_context": {
-    "near_count": 3,
-    "context_count": 1,
+    "near_count": 4,
+    "context_count": 0,
     "historic_count": 14,
     "near": [
       {
@@ -58,10 +58,27 @@
         ]
       },
       {
+        "id": "CkIExi",
+        "type": "vertical_line",
+        "bucket": "CERCA",
+        "distance": 4.993,
+        "min_price": 4067.498,
+        "max_price": 4067.498,
+        "mid_price": 4067.498,
+        "text": "zona mike",
+        "visible": true,
+        "points": [
+          {
+            "price": 4067.4975511302196,
+            "time": 1783578120
+          }
+        ]
+      },
+      {
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CERCA",
-        "distance": 3.527,
+        "distance": 3.182,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
@@ -100,25 +117,7 @@
         ]
       }
     ],
-    "context": [
-      {
-        "id": "CkIExi",
-        "type": "vertical_line",
-        "bucket": "CONTEXTO",
-        "distance": 5.338,
-        "min_price": 4067.498,
-        "max_price": 4067.498,
-        "mid_price": 4067.498,
-        "text": "zona mike",
-        "visible": true,
-        "points": [
-          {
-            "price": 4067.4975511302196,
-            "time": 1783578120
-          }
-        ]
-      }
-    ]
+    "context": []
   },
   "drawings": {
     "count": 18,
