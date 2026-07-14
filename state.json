@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T13:09:36.719481-06:00",
-  "captured_at": "2026-07-14T13:09:36.695818-06:00",
+  "published_at": "2026-07-14T13:10:12.010950-06:00",
+  "captured_at": "2026-07-14T13:10:11.943801-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4054.485,
+  "price": 4054.16,
   "market_memory": {
     "s10": {
-      "delta": -0.275,
+      "delta": -0.17,
       "direction": "DOWN"
     },
     "s30": {
-      "delta": 0.085,
-      "direction": "UP"
+      "delta": -0.11,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 1.685,
-      "direction": "UP"
+      "delta": -0.54,
+      "direction": "DOWN"
     },
     "m5": {
-      "delta": 1.235,
+      "delta": 1.195,
       "direction": "UP"
     }
   },
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 2,
     "context_count": 2,
-    "historic_count": 14,
+    "historic_count": 13,
     "near": [
       {
         "id": "gPer3r",
@@ -84,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 13.013,
+        "distance": 13.338,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -101,7 +101,7 @@
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 11.202,
+        "distance": 11.527,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
@@ -810,46 +810,9 @@
         "name": "rectangle"
       },
       {
-        "success": true,
+        "success": false,
         "entity_id": "NZUnux",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4175.534003387607,
-            "time": 1782144900
-          },
-          {
-            "price": 4170.905301606382,
-            "time": 1782220500
-          }
-        ],
-        "properties": {
-          "color": "rgba(128, 128, 128, 0)",
-          "fillBackground": true,
-          "backgroundColor": "rgba(245, 124, 0, 0.2)",
-          "linewidth": 2,
-          "transparency": 50,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "textColor": "rgba(255, 255, 255, 1)",
-          "fontSize": 14,
-          "bold": false,
-          "italic": false,
-          "extendLeft": false,
-          "extendRight": false,
-          "middleLine": {
-            "showLine": false,
-            "lineWidth": 1,
-            "lineColor": "#9c27b0",
-            "lineStyle": 2
-          },
-          "linestyle": 0,
-          "frozen": false,
-          "visible": true,
-          "text": ""
-        },
-        "selectable": true,
-        "name": "rectangle"
+        "error": "Command '['node', 'C:\\\\Users\\\\hp\\\\tradingview-mcp\\\\src\\\\cli\\\\index.js', 'draw', 'get', 'NZUnux']' timed out after 20 seconds"
       },
       {
         "success": true,
