@@ -1,17 +1,17 @@
 {
   "reader_version": "1.0-one-click",
-  "read_at": "2026-07-13T23:14:23.188230-06:00",
-  "published_at": "2026-07-13T23:14:21.368691-06:00",
+  "read_at": "2026-07-13T23:14:51.227616-06:00",
+  "published_at": "2026-07-13T23:14:49.247789-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4022.72,
+  "price": 4023.1,
   "windows": {
     "s10": "DOWN",
-    "s30": "DOWN",
-    "m1": "DOWN",
-    "m5": "DOWN"
+    "s30": "UP",
+    "m1": "UP",
+    "m5": "UP"
   },
-  "pressure": "PRESSURE_DOWN",
+  "pressure": "BIAS_UP",
   "momentum": "MIXED",
   "reading": "NO_CONFIRMATION",
   "owner_m5": null,
