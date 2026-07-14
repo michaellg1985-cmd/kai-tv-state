@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T13:11:02.809373-06:00",
-  "captured_at": "2026-07-14T13:11:02.777955-06:00",
+  "published_at": "2026-07-14T13:11:18.908256-06:00",
+  "captured_at": "2026-07-14T13:11:18.879317-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4054.425,
+  "price": 4053.765,
   "market_memory": {
     "s10": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": -0.66,
+      "direction": "DOWN"
     },
     "s30": {
-      "delta": 0.01,
-      "direction": "UP"
+      "delta": -0.66,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 0.065,
-      "direction": "UP"
+      "delta": -0.505,
+      "direction": "DOWN"
     },
     "m5": {
-      "delta": 1.705,
+      "delta": 0.495,
       "direction": "UP"
     }
   },
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 2,
     "context_count": 2,
-    "historic_count": 14,
+    "historic_count": 13,
     "near": [
       {
         "id": "gPer3r",
@@ -84,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 13.073,
+        "distance": 13.733,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -93,7 +93,7 @@
         "points": [
           {
             "price": 4067.4975511302196,
-            "time": 1783574100
+            "time": 1783574400
           }
         ]
       },
@@ -101,7 +101,7 @@
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 11.262,
+        "distance": 11.922,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
@@ -855,16 +855,7 @@
         "success": true,
         "entity_id": "U9prUs",
         "available_methods": [],
-        "points": [
-          {
-            "price": 4165.579555652872,
-            "time": 1782146700
-          },
-          {
-            "price": 4162.562246367477,
-            "time": 1782216900
-          }
-        ],
+        "points_error": "Value is null",
         "properties": {
           "color": "rgba(128, 128, 128, 0)",
           "fillBackground": true,
@@ -1054,7 +1045,7 @@
         "points": [
           {
             "price": 4067.4975511302196,
-            "time": 1783574100
+            "time": 1783574400
           }
         ],
         "properties": {
