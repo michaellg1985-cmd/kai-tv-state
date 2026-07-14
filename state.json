@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T13:11:24.642460-06:00",
-  "captured_at": "2026-07-14T13:11:24.613334-06:00",
+  "published_at": "2026-07-14T13:11:52.498283-06:00",
+  "captured_at": "2026-07-14T13:11:52.471194-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4053.855,
+  "price": 4053.64,
   "market_memory": {
     "s10": {
-      "delta": -0.57,
+      "delta": -0.045,
       "direction": "DOWN"
     },
     "s30": {
-      "delta": -0.57,
+      "delta": -0.115,
       "direction": "DOWN"
     },
     "m1": {
-      "delta": -0.595,
+      "delta": -0.785,
       "direction": "DOWN"
     },
     "m5": {
-      "delta": 0.57,
+      "delta": 0.26,
       "direction": "UP"
     }
   },
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 2,
     "context_count": 2,
-    "historic_count": 13,
+    "historic_count": 14,
     "near": [
       {
         "id": "gPer3r",
@@ -84,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 13.643,
+        "distance": 13.858,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -101,7 +101,7 @@
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 11.832,
+        "distance": 12.047,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
@@ -386,7 +386,32 @@
         "success": true,
         "entity_id": "XRLKAW",
         "available_methods": [],
-        "points_error": "Value is null",
+        "points": [
+          {
+            "price": 4505.625685119875,
+            "time": 1777861800
+          },
+          {
+            "price": 4568.333347800954,
+            "time": 1777872600
+          },
+          {
+            "price": 4505.625685119875,
+            "time": 1777883400
+          },
+          {
+            "price": 4585.988903313102,
+            "time": 1777905000
+          },
+          {
+            "price": 4531.804612258577,
+            "time": 1777915800
+          },
+          {
+            "price": 4646.870129217063,
+            "time": 1777937400
+          }
+        ],
         "properties": {
           "color": "#FF9800",
           "linewidth": 2,
