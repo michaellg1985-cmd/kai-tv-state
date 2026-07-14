@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T14:38:29.580117-06:00",
-  "captured_at": "2026-07-14T14:38:29.522312-06:00",
+  "published_at": "2026-07-14T14:38:37.718087-06:00",
+  "captured_at": "2026-07-14T14:38:37.673897-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4050.74,
+  "price": 4050.72,
   "market_memory": {
     "s10": {
-      "delta": -0.005,
-      "direction": "DOWN"
+      "delta": 0.03,
+      "direction": "UP"
     },
     "s30": {
-      "delta": 0.06,
+      "delta": 0.2,
       "direction": "UP"
     },
     "m1": {
-      "delta": 0.145,
+      "delta": 0.05,
       "direction": "UP"
     },
     "m5": {
-      "delta": -0.965,
+      "delta": -0.72,
       "direction": "DOWN"
     }
   },
@@ -26,9 +26,9 @@
   "sequence": "OWNER LOCKED M5",
   "action": "GO SHORT | CLASSIC",
   "verdict": "ESTRUCTURA INTACTA - DEJAR CORRER",
-  "rsi": "39.2",
+  "rsi": "39.6",
   "stoch_kd": "40.4/67.3",
-  "macd_hist": "0.0663",
+  "macd_hist": "0.0781",
   "volume_state": "BAJO AVG",
   "drawings_count": 18,
   "visual_context": {
@@ -84,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 16.758,
+        "distance": 16.778,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -101,7 +101,7 @@
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 14.947,
+        "distance": 14.967,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
