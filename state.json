@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T08:21:50.158194-06:00",
-  "captured_at": "2026-07-14T08:21:50.138751-06:00",
+  "published_at": "2026-07-14T08:22:04.016316-06:00",
+  "captured_at": "2026-07-14T08:22:03.996209-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4076.75,
+  "price": 4077.72,
   "market_memory": {
     "s10": {
-      "delta": -0.545,
-      "direction": "DOWN"
+      "delta": 0.785,
+      "direction": "UP"
     },
     "s30": {
-      "delta": 1.68,
+      "delta": 1.735,
       "direction": "UP"
     },
     "m1": {
-      "delta": 2.355,
+      "delta": 3.71,
       "direction": "UP"
     },
     "m5": {
-      "delta": 1.6,
+      "delta": 3.365,
       "direction": "UP"
     }
   },
@@ -32,8 +32,8 @@
   "volume_state": null,
   "drawings_count": 18,
   "visual_context": {
-    "near_count": 3,
-    "context_count": 1,
+    "near_count": 2,
+    "context_count": 2,
     "historic_count": 14,
     "near": [
       {
@@ -77,12 +77,31 @@
             "time": 1783581900
           }
         ]
+      }
+    ],
+    "context": [
+      {
+        "id": "CkIExi",
+        "type": "vertical_line",
+        "bucket": "CONTEXTO",
+        "distance": 10.222,
+        "min_price": 4067.498,
+        "max_price": 4067.498,
+        "mid_price": 4067.498,
+        "text": "zona mike",
+        "visible": true,
+        "points": [
+          {
+            "price": 4067.4975511302196,
+            "time": 1783574100
+          }
+        ]
       },
       {
         "id": "bAAKkF",
         "type": "trend_line",
-        "bucket": "CERCA",
-        "distance": 4.313,
+        "bucket": "CONTEXTO",
+        "distance": 5.283,
         "min_price": 4048.104,
         "max_price": 4072.437,
         "mid_price": 4060.27,
@@ -96,25 +115,6 @@
           {
             "price": 4048.1040626564404,
             "time": 1783575900
-          }
-        ]
-      }
-    ],
-    "context": [
-      {
-        "id": "CkIExi",
-        "type": "vertical_line",
-        "bucket": "CONTEXTO",
-        "distance": 9.252,
-        "min_price": 4067.498,
-        "max_price": 4067.498,
-        "mid_price": 4067.498,
-        "text": "zona mike",
-        "visible": true,
-        "points": [
-          {
-            "price": 4067.4975511302196,
-            "time": 1783574100
           }
         ]
       }
