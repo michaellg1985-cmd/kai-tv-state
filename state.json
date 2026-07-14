@@ -1,35 +1,35 @@
 {
-  "published_at": "2026-07-14T14:37:55.344539-06:00",
-  "captured_at": "2026-07-14T14:37:55.314359-06:00",
+  "published_at": "2026-07-14T14:38:29.580117-06:00",
+  "captured_at": "2026-07-14T14:38:29.522312-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4050.645,
+  "price": 4050.74,
   "market_memory": {
     "s10": {
-      "delta": -0.11,
+      "delta": -0.005,
       "direction": "DOWN"
     },
     "s30": {
-      "delta": 0.015,
+      "delta": 0.06,
       "direction": "UP"
     },
     "m1": {
-      "delta": -0.115,
-      "direction": "DOWN"
+      "delta": 0.145,
+      "direction": "UP"
     },
     "m5": {
-      "delta": -1.965,
+      "delta": -0.965,
       "direction": "DOWN"
     }
   },
-  "owner_m5": null,
-  "sequence": null,
-  "action": null,
-  "verdict": null,
-  "rsi": null,
-  "stoch_kd": null,
-  "macd_hist": null,
-  "volume_state": null,
+  "owner_m5": "SHORT 64",
+  "sequence": "OWNER LOCKED M5",
+  "action": "GO SHORT | CLASSIC",
+  "verdict": "ESTRUCTURA INTACTA - DEJAR CORRER",
+  "rsi": "39.2",
+  "stoch_kd": "40.4/67.3",
+  "macd_hist": "0.0663",
+  "volume_state": "BAJO AVG",
   "drawings_count": 18,
   "visual_context": {
     "near_count": 2,
@@ -84,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 16.853,
+        "distance": 16.758,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -101,7 +101,7 @@
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 15.042,
+        "distance": 14.947,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
