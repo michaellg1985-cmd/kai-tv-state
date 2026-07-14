@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T10:11:12.339899-06:00",
-  "captured_at": "2026-07-14T10:11:12.314369-06:00",
+  "published_at": "2026-07-14T10:11:38.863227-06:00",
+  "captured_at": "2026-07-14T10:11:38.834991-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4062.435,
+  "price": 4062.615,
   "market_memory": {
     "s10": {
-      "delta": -0.37,
+      "delta": -0.255,
       "direction": "DOWN"
     },
     "s30": {
-      "delta": -0.67,
-      "direction": "DOWN"
-    },
-    "m1": {
-      "delta": 0.525,
+      "delta": 0.24,
       "direction": "UP"
     },
+    "m1": {
+      "delta": -0.075,
+      "direction": "DOWN"
+    },
     "m5": {
-      "delta": 1.875,
+      "delta": 1.27,
       "direction": "UP"
     }
   },
@@ -32,8 +32,8 @@
   "volume_state": null,
   "drawings_count": 18,
   "visual_context": {
-    "near_count": 3,
-    "context_count": 1,
+    "near_count": 4,
+    "context_count": 0,
     "historic_count": 14,
     "near": [
       {
@@ -58,10 +58,27 @@
         ]
       },
       {
+        "id": "CkIExi",
+        "type": "vertical_line",
+        "bucket": "CERCA",
+        "distance": 4.883,
+        "min_price": 4067.498,
+        "max_price": 4067.498,
+        "mid_price": 4067.498,
+        "text": "zona mike",
+        "visible": true,
+        "points": [
+          {
+            "price": 4067.4975511302196,
+            "time": 1783574100
+          }
+        ]
+      },
+      {
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CERCA",
-        "distance": 3.252,
+        "distance": 3.072,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
@@ -100,25 +117,7 @@
         ]
       }
     ],
-    "context": [
-      {
-        "id": "CkIExi",
-        "type": "vertical_line",
-        "bucket": "CONTEXTO",
-        "distance": 5.063,
-        "min_price": 4067.498,
-        "max_price": 4067.498,
-        "mid_price": 4067.498,
-        "text": "zona mike",
-        "visible": true,
-        "points": [
-          {
-            "price": 4067.4975511302196,
-            "time": 1783574100
-          }
-        ]
-      }
-    ]
+    "context": []
   },
   "drawings": {
     "count": 18,
