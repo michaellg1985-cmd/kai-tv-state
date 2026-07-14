@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T14:37:32.203365-06:00",
-  "captured_at": "2026-07-14T14:37:32.167584-06:00",
+  "published_at": "2026-07-14T14:37:38.966740-06:00",
+  "captured_at": "2026-07-14T14:37:38.905458-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4050.69,
+  "price": 4050.71,
   "market_memory": {
     "s10": {
-      "delta": 0.145,
+      "delta": 0.055,
       "direction": "UP"
     },
     "s30": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": 0.08,
+      "direction": "UP"
     },
     "m1": {
-      "delta": -0.155,
+      "delta": -0.3,
       "direction": "DOWN"
     },
     "m5": {
-      "delta": -2.325,
+      "delta": -2.34,
       "direction": "DOWN"
     }
   },
@@ -84,7 +84,7 @@
         "id": "CkIExi",
         "type": "vertical_line",
         "bucket": "CONTEXTO",
-        "distance": 16.808,
+        "distance": 16.788,
         "min_price": 4067.498,
         "max_price": 4067.498,
         "mid_price": 4067.498,
@@ -101,7 +101,7 @@
         "id": "sKNDFA",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 14.997,
+        "distance": 14.977,
         "min_price": 4065.687,
         "max_price": 4090.02,
         "mid_price": 4077.854,
@@ -204,7 +204,7 @@
         "points": [
           {
             "price": 4627.176107154779,
-            "time": 1777962600
+            "time": 1777926600
           }
         ],
         "properties": {
@@ -232,7 +232,7 @@
         "points": [
           {
             "price": 4706.710549665595,
-            "time": 1776136200
+            "time": 1776100200
           }
         ],
         "properties": {
@@ -260,15 +260,15 @@
         "points": [
           {
             "price": 4772.575,
-            "time": 1776774600
+            "time": 1776738600
           },
           {
             "price": 4442.884595847377,
-            "time": 1777977000
+            "time": 1777941000
           },
           {
             "price": 4939.008594995669,
-            "time": 1776774600
+            "time": 1776738600
           }
         ],
         "properties": {
@@ -348,27 +348,27 @@
         "points": [
           {
             "price": 4736.974343554924,
-            "time": 1777476600
+            "time": 1777451400
           },
           {
             "price": 4664.525684729211,
-            "time": 1777519800
+            "time": 1777494600
           },
           {
             "price": 4707.751355121023,
-            "time": 1777548600
+            "time": 1777523400
           },
           {
             "price": 4550.068980029766,
-            "time": 1777581000
+            "time": 1777555800
           },
           {
             "price": 4613.994267228924,
-            "time": 1777649400
+            "time": 1777624200
           },
           {
             "price": 4505.016872860835,
-            "time": 1777843800
+            "time": 1777645800
           }
         ],
         "properties": {
