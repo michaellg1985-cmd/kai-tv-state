@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-14T21:10:32.419279-06:00",
-  "captured_at": "2026-07-14T21:10:32.391048-06:00",
+  "published_at": "2026-07-14T21:11:39.161197-06:00",
+  "captured_at": "2026-07-14T21:11:39.121529-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "5",
-  "price": 4036.525,
+  "price": 4035.31,
   "market_memory": {
     "s10": {
-      "delta": -0.115,
+      "delta": -1.77,
       "direction": "DOWN"
     },
     "s30": {
-      "delta": -0.055,
+      "delta": -1.29,
       "direction": "DOWN"
     },
     "m1": {
-      "delta": -0.02,
+      "delta": -1.255,
       "direction": "DOWN"
     },
     "m5": {
-      "delta": -2.68,
+      "delta": -2.56,
       "direction": "DOWN"
     }
   },
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 1,
     "context_count": 1,
-    "historic_count": 16,
+    "historic_count": 15,
     "near": [
       {
         "id": "gPer3r",
@@ -63,7 +63,7 @@
         "id": "bAAKkF",
         "type": "trend_line",
         "bucket": "CONTEXTO",
-        "distance": 11.579,
+        "distance": 12.794,
         "min_price": 4048.104,
         "max_price": 4072.437,
         "mid_price": 4060.27,
@@ -1040,50 +1040,9 @@
         "name": "vertical_line"
       },
       {
-        "success": true,
+        "success": false,
         "entity_id": "sKNDFA",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4090.02,
-            "time": 1783556100
-          },
-          {
-            "price": 4065.6872186902397,
-            "time": 1783581900
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(255, 255, 255, 1)",
-          "textcolor": "rgba(255, 255, 255, 1)",
-          "linewidth": 1,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
+        "error": "Command '['node', 'C:\\\\Users\\\\hp\\\\tradingview-mcp\\\\src\\\\cli\\\\index.js', 'draw', 'get', 'sKNDFA']' timed out after 20 seconds"
       },
       {
         "success": true,
