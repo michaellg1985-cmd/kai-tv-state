@@ -1,6 +1,6 @@
 {
-  "published_at": "2026-07-17T16:19:50.460370-06:00",
-  "captured_at": "2026-07-17T16:19:50.432936-06:00",
+  "published_at": "2026-07-17T16:20:59.446707-06:00",
+  "captured_at": "2026-07-17T16:20:59.426138-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
   "price": 4017.315,
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 1,
     "context_count": 1,
-    "historic_count": 16,
+    "historic_count": 15,
     "near": [
       {
         "id": "gPer3r",
@@ -813,16 +813,7 @@
         "success": true,
         "entity_id": "U9prUs",
         "available_methods": [],
-        "points": [
-          {
-            "price": 4165.579555652872,
-            "time": 1782172860
-          },
-          {
-            "price": 4162.562246367477,
-            "time": 1782243060
-          }
-        ],
+        "points_error": "Value is null",
         "properties": {
           "color": "rgba(128, 128, 128, 0)",
           "fillBackground": true,
