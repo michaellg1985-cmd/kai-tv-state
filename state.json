@@ -1,25 +1,25 @@
 {
-  "published_at": "2026-07-15T16:20:38.724349-06:00",
-  "captured_at": "2026-07-15T16:20:38.696807-06:00",
-  "symbol": "OANDA:XAUUSD",
+  "published_at": "2026-07-16T22:32:34.064575-06:00",
+  "captured_at": "2026-07-16T22:32:34.040446-06:00",
+  "symbol": "INDEX:BTCUSD",
   "timeframe": "5",
-  "price": 4063.645,
+  "price": 63322.61,
   "market_memory": {
     "s10": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": null,
+      "direction": "WARMING"
     },
     "s30": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": null,
+      "direction": "WARMING"
     },
     "m1": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": null,
+      "direction": "WARMING"
     },
     "m5": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": null,
+      "direction": "WARMING"
     }
   },
   "owner_m5": null,
@@ -29,883 +29,115 @@
   "rsi": null,
   "stoch_kd": null,
   "macd_hist": null,
-  "volume_state": null,
-  "drawings_count": 18,
+  "volume_state": "LOW",
+  "drawings_count": 4,
   "visual_context": {
-    "near_count": 4,
+    "near_count": 0,
     "context_count": 0,
-    "historic_count": 14,
-    "near": [
-      {
-        "id": "gPer3r",
-        "type": "trend_line",
-        "bucket": "CERCA",
-        "distance": 0.0,
-        "min_price": 3982.95,
-        "max_price": 4118.085,
-        "mid_price": 4050.518,
-        "text": "",
-        "visible": true,
-        "points": [
-          {
-            "price": 3982.95,
-            "time": 1782499500
-          },
-          {
-            "price": 4118.085365829339,
-            "time": 1782761400
-          }
-        ]
-      },
-      {
-        "id": "CkIExi",
-        "type": "vertical_line",
-        "bucket": "CERCA",
-        "distance": 3.853,
-        "min_price": 4067.498,
-        "max_price": 4067.498,
-        "mid_price": 4067.498,
-        "text": "zona mike",
-        "visible": true,
-        "points": [
-          {
-            "price": 4067.4975511302196,
-            "time": 1783585200
-          }
-        ]
-      },
-      {
-        "id": "sKNDFA",
-        "type": "trend_line",
-        "bucket": "CERCA",
-        "distance": 2.042,
-        "min_price": 4065.687,
-        "max_price": 4090.02,
-        "mid_price": 4077.854,
-        "text": "",
-        "visible": true,
-        "points": [
-          {
-            "price": 4090.02,
-            "time": 1783566900
-          },
-          {
-            "price": 4065.6872186902397,
-            "time": 1783592700
-          }
-        ]
-      },
-      {
-        "id": "bAAKkF",
-        "type": "trend_line",
-        "bucket": "CERCA",
-        "distance": 0.0,
-        "min_price": 4048.104,
-        "max_price": 4072.437,
-        "mid_price": 4060.27,
-        "text": "",
-        "visible": true,
-        "points": [
-          {
-            "price": 4072.4368439662007,
-            "time": 1783560900
-          },
-          {
-            "price": 4048.1040626564404,
-            "time": 1783586700
-          }
-        ]
-      }
-    ],
+    "historic_count": 0,
+    "near": [],
     "context": []
   },
   "drawings": {
-    "count": 18,
+    "count": 4,
     "shapes": [
       {
-        "id": "wFwJFe",
-        "name": "horizontal_ray"
-      },
-      {
-        "id": "MXGGhg",
-        "name": "horizontal_ray"
-      },
-      {
-        "id": "TMqaYl",
-        "name": "parallel_channel"
-      },
-      {
-        "id": "z5Zbah",
-        "name": "elliott_impulse_wave"
-      },
-      {
-        "id": "XRLKAW",
-        "name": "elliott_triangle_wave"
-      },
-      {
-        "id": "jwsdGp",
-        "name": "elliott_impulse_wave"
-      },
-      {
-        "id": "Mstrhc",
-        "name": "short_position"
-      },
-      {
-        "id": "W6KgTb",
-        "name": "short_position"
-      },
-      {
-        "id": "bMpCnG",
-        "name": "short_position"
-      },
-      {
-        "id": "LJPirT",
-        "name": "rectangle"
-      },
-      {
-        "id": "iewwAf",
-        "name": "rectangle"
-      },
-      {
-        "id": "NZUnux",
-        "name": "rectangle"
-      },
-      {
-        "id": "U9prUs",
-        "name": "rectangle"
-      },
-      {
-        "id": "gPer3r",
+        "id": "nlYo4g",
         "name": "trend_line"
       },
       {
-        "id": "z1XEij",
-        "name": "anchored_vwap"
-      },
-      {
-        "id": "CkIExi",
-        "name": "vertical_line"
-      },
-      {
-        "id": "sKNDFA",
+        "id": "8AXz1q",
         "name": "trend_line"
       },
       {
-        "id": "bAAKkF",
+        "id": "f4sX24",
+        "name": "trend_line"
+      },
+      {
+        "id": "YzqLuf",
         "name": "trend_line"
       }
     ],
     "details": [
       {
         "success": true,
-        "entity_id": "wFwJFe",
+        "entity_id": "nlYo4g",
         "available_methods": [],
-        "points": [
-          {
-            "price": 4627.176107154779,
-            "time": 1777973400
-          }
-        ],
+        "points": [],
         "properties": {
-          "linecolor": "rgba(76, 175, 80, 1)",
-          "textcolor": "rgba(76, 175, 80, 1)",
-          "linewidth": 1,
+          "linecolor": "#2962FF",
+          "textcolor": "#2962FF",
+          "linewidth": 2,
           "linestyle": 0,
-          "showPrice": true,
-          "fontsize": 10,
+          "extendLeft": false,
+          "extendRight": false,
+          "leftEnd": 0,
+          "rightEnd": 0,
+          "horzLabelsAlign": "center",
+          "vertLabelsAlign": "bottom",
+          "fontsize": 14,
           "bold": false,
           "italic": false,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "top",
+          "alwaysShowStats": false,
+          "showMiddlePoint": false,
+          "showPriceLabels": false,
+          "showPriceRange": false,
+          "showPercentPriceRange": false,
+          "showPipsPriceRange": false,
+          "showBarsRange": false,
+          "showDateTimeRange": false,
+          "showDistance": false,
+          "showAngle": false,
+          "statsPosition": 2,
           "text": "",
           "frozen": false,
           "visible": true
         },
         "selectable": true,
-        "name": "horizontal_ray"
+        "name": "trend_line"
       },
       {
         "success": true,
-        "entity_id": "MXGGhg",
+        "entity_id": "8AXz1q",
         "available_methods": [],
-        "points": [
-          {
-            "price": 4706.710549665595,
-            "time": 1776147000
-          }
-        ],
+        "points": [],
         "properties": {
-          "linecolor": "rgba(76, 175, 80, 1)",
-          "textcolor": "rgba(76, 175, 80, 1)",
-          "linewidth": 1,
+          "linecolor": "#2962FF",
+          "textcolor": "#2962FF",
+          "linewidth": 2,
           "linestyle": 0,
-          "showPrice": true,
-          "fontsize": 10,
+          "extendLeft": false,
+          "extendRight": false,
+          "leftEnd": 0,
+          "rightEnd": 0,
+          "horzLabelsAlign": "center",
+          "vertLabelsAlign": "bottom",
+          "fontsize": 14,
           "bold": false,
           "italic": false,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "top",
+          "alwaysShowStats": false,
+          "showMiddlePoint": false,
+          "showPriceLabels": false,
+          "showPriceRange": false,
+          "showPercentPriceRange": false,
+          "showPipsPriceRange": false,
+          "showBarsRange": false,
+          "showDateTimeRange": false,
+          "showDistance": false,
+          "showAngle": false,
+          "statsPosition": 2,
           "text": "",
           "frozen": false,
           "visible": true
         },
         "selectable": true,
-        "name": "horizontal_ray"
+        "name": "trend_line"
       },
       {
         "success": true,
-        "entity_id": "TMqaYl",
+        "entity_id": "f4sX24",
         "available_methods": [],
-        "points": [
-          {
-            "price": 4772.575,
-            "time": 1776785400
-          },
-          {
-            "price": 4442.884595847377,
-            "time": 1777987800
-          },
-          {
-            "price": 4939.008594995669,
-            "time": 1776785400
-          }
-        ],
-        "properties": {
-          "level1": {
-            "color": "#2962ff",
-            "visible": false,
-            "coeff": -0.25,
-            "lineStyle": 0,
-            "lineWidth": 1
-          },
-          "level2": {
-            "color": "#2962FF",
-            "visible": true,
-            "coeff": 0,
-            "lineStyle": 0,
-            "lineWidth": 1
-          },
-          "level3": {
-            "color": "#2962ff",
-            "visible": false,
-            "coeff": 0.25,
-            "lineStyle": 0,
-            "lineWidth": 1
-          },
-          "level4": {
-            "color": "#2962FF",
-            "visible": true,
-            "coeff": 0.5,
-            "lineStyle": 2,
-            "lineWidth": 1
-          },
-          "level5": {
-            "color": "#2962ff",
-            "visible": false,
-            "coeff": 0.75,
-            "lineStyle": 0,
-            "lineWidth": 1
-          },
-          "level6": {
-            "color": "#2962FF",
-            "visible": true,
-            "coeff": 1,
-            "lineStyle": 0,
-            "lineWidth": 1
-          },
-          "level7": {
-            "color": "#2962ff",
-            "visible": false,
-            "coeff": 1.25,
-            "lineStyle": 0,
-            "lineWidth": 1
-          },
-          "labelTextColor": "#2962FF",
-          "backgroundColor": "rgba(41, 98, 255, 0.0648)",
-          "extendLeft": false,
-          "extendRight": false,
-          "fillBackground": true,
-          "transparency": 20,
-          "labelVisible": false,
-          "labelHorzAlign": "left",
-          "labelVertAlign": "bottom",
-          "labelFontSize": 14,
-          "labelBold": false,
-          "labelItalic": false,
-          "version": 2,
-          "frozen": false,
-          "visible": true,
-          "labelText": ""
-        },
-        "selectable": true,
-        "name": "parallel_channel"
-      },
-      {
-        "success": true,
-        "entity_id": "z5Zbah",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4736.974343554924,
-            "time": 1777498200
-          },
-          {
-            "price": 4664.525684729211,
-            "time": 1777541400
-          },
-          {
-            "price": 4707.751355121023,
-            "time": 1777570200
-          },
-          {
-            "price": 4550.068980029766,
-            "time": 1777602600
-          },
-          {
-            "price": 4613.994267228924,
-            "time": 1777843800
-          },
-          {
-            "price": 4505.016872860835,
-            "time": 1777865400
-          }
-        ],
-        "properties": {
-          "color": "#3d85c6",
-          "linewidth": 1,
-          "showWave": false,
-          "degree": 7,
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "elliott_impulse_wave"
-      },
-      {
-        "success": true,
-        "entity_id": "XRLKAW",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4505.625685119875,
-            "time": 1777872600
-          },
-          {
-            "price": 4568.333347800954,
-            "time": 1777883400
-          },
-          {
-            "price": 4505.625685119875,
-            "time": 1777894200
-          },
-          {
-            "price": 4585.988903313102,
-            "time": 1777915800
-          },
-          {
-            "price": 4531.804612258577,
-            "time": 1777926600
-          },
-          {
-            "price": 4646.870129217063,
-            "time": 1777948200
-          }
-        ],
-        "properties": {
-          "color": "#FF9800",
-          "linewidth": 2,
-          "showWave": true,
-          "degree": 7,
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "elliott_triangle_wave"
-      },
-      {
-        "success": true,
-        "entity_id": "jwsdGp",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4668.1844071297455,
-            "time": 1778042100
-          },
-          {
-            "price": 4617.88767502742,
-            "time": 1778047200
-          },
-          {
-            "price": 4657.797927766707,
-            "time": 1778050500
-          },
-          {
-            "price": 4523.384665421507,
-            "time": 1778111400
-          },
-          {
-            "price": 4595.479051588478,
-            "time": 1778126400
-          },
-          {
-            "price": 4490.392319209503,
-            "time": 1778131200
-          }
-        ],
-        "properties": {
-          "color": "#3d85c6",
-          "linewidth": 1,
-          "showWave": false,
-          "degree": 7,
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "elliott_impulse_wave"
-      },
-      {
-        "success": true,
-        "entity_id": "Mstrhc",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4693.521,
-            "time": 1778791800
-          },
-          {
-            "price": 4693.521,
-            "time": 1778824800
-          }
-        ],
-        "properties": {
-          "linecolor": "#808080",
-          "textcolor": "#ffffff",
-          "stopBackground": "rgba(242, 54, 69, 0.2)",
-          "profitBackground": "rgba(8, 153, 129, 0.2)",
-          "stopBackgroundTransparency": 80,
-          "profitBackgroundTransparency": 80,
-          "linewidth": 1,
-          "fontsize": 12,
-          "compact": false,
-          "riskDisplayMode": "percents",
-          "accountSize": 1000,
-          "lotSize": 1,
-          "risk": 25,
-          "leverage": 10000,
-          "alwaysShowStats": false,
-          "showPriceLabels": true,
-          "qtyPrecision": "default",
-          "currency": "NONE",
-          "infoBlocks": {
-            "tpPriceOffset": {
-              "visible": true
-            },
-            "tpPercentOffset": {
-              "visible": true
-            },
-            "tpTickOffset": {
-              "visible": true
-            },
-            "tpAmount": {
-              "visible": true
-            },
-            "tpPL": {
-              "visible": false
-            },
-            "openClosePL": {
-              "visible": true
-            },
-            "qty": {
-              "visible": true
-            },
-            "riskRewardRatio": {
-              "visible": true
-            },
-            "slPriceOffset": {
-              "visible": true
-            },
-            "slPercentOffset": {
-              "visible": true
-            },
-            "slTickOffset": {
-              "visible": true
-            },
-            "slAmount": {
-              "visible": true
-            },
-            "slPL": {
-              "visible": false
-            }
-          },
-          "frozen": false,
-          "visible": true,
-          "stopLevel": 18128,
-          "profitLevel": 36254,
-          "qty": 13.790820829655317,
-          "amountTarget": 1499.97,
-          "amountStop": 750,
-          "entryPointCurrencyRate": 1,
-          "closePointCurrencyRate": 1
-        },
-        "selectable": true,
-        "name": "short_position"
-      },
-      {
-        "success": true,
-        "entity_id": "W6KgTb",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4669.512,
-            "time": 1778705100
-          },
-          {
-            "price": 4669.512,
-            "time": 1778707500
-          }
-        ],
-        "properties": {
-          "linecolor": "#808080",
-          "textcolor": "#ffffff",
-          "stopBackground": "rgba(242, 54, 69, 0.2)",
-          "profitBackground": "rgba(8, 153, 129, 0.2)",
-          "stopBackgroundTransparency": 80,
-          "profitBackgroundTransparency": 80,
-          "linewidth": 1,
-          "fontsize": 12,
-          "compact": false,
-          "riskDisplayMode": "percents",
-          "accountSize": 1000,
-          "lotSize": 1,
-          "risk": 25,
-          "leverage": 10000,
-          "alwaysShowStats": false,
-          "showPriceLabels": true,
-          "qtyPrecision": "default",
-          "currency": "NONE",
-          "infoBlocks": {
-            "tpPriceOffset": {
-              "visible": true
-            },
-            "tpPercentOffset": {
-              "visible": true
-            },
-            "tpTickOffset": {
-              "visible": true
-            },
-            "tpAmount": {
-              "visible": true
-            },
-            "tpPL": {
-              "visible": false
-            },
-            "openClosePL": {
-              "visible": true
-            },
-            "qty": {
-              "visible": true
-            },
-            "riskRewardRatio": {
-              "visible": true
-            },
-            "slPriceOffset": {
-              "visible": true
-            },
-            "slPercentOffset": {
-              "visible": true
-            },
-            "slTickOffset": {
-              "visible": true
-            },
-            "slAmount": {
-              "visible": true
-            },
-            "slPL": {
-              "visible": false
-            }
-          },
-          "frozen": false,
-          "visible": true,
-          "stopLevel": 11285,
-          "profitLevel": 19631,
-          "qty": 22.15330084182572,
-          "amountTarget": 1434.89,
-          "amountStop": 750,
-          "entryPointCurrencyRate": 1,
-          "closePointCurrencyRate": 1
-        },
-        "selectable": true,
-        "name": "short_position"
-      },
-      {
-        "success": true,
-        "entity_id": "bMpCnG",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4680.185,
-            "time": 1777541400
-          },
-          {
-            "price": 4680.185,
-            "time": 1777883400
-          }
-        ],
-        "properties": {
-          "linecolor": "#808080",
-          "textcolor": "#ffffff",
-          "stopBackground": "rgba(242, 54, 69, 0.2)",
-          "profitBackground": "rgba(8, 153, 129, 0.2)",
-          "stopBackgroundTransparency": 80,
-          "profitBackgroundTransparency": 80,
-          "linewidth": 1,
-          "fontsize": 12,
-          "compact": false,
-          "riskDisplayMode": "percents",
-          "accountSize": 1000,
-          "lotSize": 1,
-          "risk": 25,
-          "leverage": 10000,
-          "alwaysShowStats": false,
-          "showPriceLabels": true,
-          "qtyPrecision": "default",
-          "currency": "NONE",
-          "infoBlocks": {
-            "tpPriceOffset": {
-              "visible": true
-            },
-            "tpPercentOffset": {
-              "visible": true
-            },
-            "tpTickOffset": {
-              "visible": true
-            },
-            "tpAmount": {
-              "visible": true
-            },
-            "tpPL": {
-              "visible": false
-            },
-            "openClosePL": {
-              "visible": true
-            },
-            "qty": {
-              "visible": true
-            },
-            "riskRewardRatio": {
-              "visible": true
-            },
-            "slPriceOffset": {
-              "visible": true
-            },
-            "slPercentOffset": {
-              "visible": true
-            },
-            "slTickOffset": {
-              "visible": true
-            },
-            "slAmount": {
-              "visible": true
-            },
-            "slPL": {
-              "visible": false
-            }
-          },
-          "frozen": false,
-          "visible": true,
-          "stopLevel": 31911,
-          "profitLevel": 157495,
-          "qty": 7.834289116605768,
-          "amountTarget": 2233.86,
-          "amountStop": 750,
-          "entryPointCurrencyRate": 1,
-          "closePointCurrencyRate": 1
-        },
-        "selectable": true,
-        "name": "short_position"
-      },
-      {
-        "success": true,
-        "entity_id": "LJPirT",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4556.139981659528,
-            "time": 1779467100
-          },
-          {
-            "price": 4549.211764794854,
-            "time": 1779915000
-          }
-        ],
-        "properties": {
-          "color": "rgba(128, 128, 128, 0)",
-          "fillBackground": true,
-          "backgroundColor": "rgba(245, 124, 0, 0.2)",
-          "linewidth": 2,
-          "transparency": 50,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "textColor": "rgba(255, 255, 255, 1)",
-          "fontSize": 14,
-          "bold": false,
-          "italic": false,
-          "extendLeft": false,
-          "extendRight": false,
-          "middleLine": {
-            "showLine": false,
-            "lineWidth": 1,
-            "lineColor": "#9c27b0",
-            "lineStyle": 2
-          },
-          "linestyle": 0,
-          "frozen": false,
-          "visible": true,
-          "text": ""
-        },
-        "selectable": true,
-        "name": "rectangle"
-      },
-      {
-        "success": true,
-        "entity_id": "iewwAf",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4478.781730988478,
-            "time": 1779440100
-          },
-          {
-            "price": 4475.011516135995,
-            "time": 1779705900
-          }
-        ],
-        "properties": {
-          "color": "rgba(128, 128, 128, 0)",
-          "fillBackground": true,
-          "backgroundColor": "rgba(245, 124, 0, 0.2)",
-          "linewidth": 2,
-          "transparency": 50,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "textColor": "rgba(255, 255, 255, 1)",
-          "fontSize": 14,
-          "bold": false,
-          "italic": false,
-          "extendLeft": false,
-          "extendRight": false,
-          "middleLine": {
-            "showLine": false,
-            "lineWidth": 1,
-            "lineColor": "#9c27b0",
-            "lineStyle": 2
-          },
-          "linestyle": 0,
-          "frozen": false,
-          "visible": true,
-          "text": ""
-        },
-        "selectable": true,
-        "name": "rectangle"
-      },
-      {
-        "success": true,
-        "entity_id": "NZUnux",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4175.534003387607,
-            "time": 1782155700
-          },
-          {
-            "price": 4170.905301606382,
-            "time": 1782231300
-          }
-        ],
-        "properties": {
-          "color": "rgba(128, 128, 128, 0)",
-          "fillBackground": true,
-          "backgroundColor": "rgba(245, 124, 0, 0.2)",
-          "linewidth": 2,
-          "transparency": 50,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "textColor": "rgba(255, 255, 255, 1)",
-          "fontSize": 14,
-          "bold": false,
-          "italic": false,
-          "extendLeft": false,
-          "extendRight": false,
-          "middleLine": {
-            "showLine": false,
-            "lineWidth": 1,
-            "lineColor": "#9c27b0",
-            "lineStyle": 2
-          },
-          "linestyle": 0,
-          "frozen": false,
-          "visible": true,
-          "text": ""
-        },
-        "selectable": true,
-        "name": "rectangle"
-      },
-      {
-        "success": true,
-        "entity_id": "U9prUs",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4165.579555652872,
-            "time": 1782157500
-          },
-          {
-            "price": 4162.562246367477,
-            "time": 1782227700
-          }
-        ],
-        "properties": {
-          "color": "rgba(128, 128, 128, 0)",
-          "fillBackground": true,
-          "backgroundColor": "rgba(245, 124, 0, 0.2)",
-          "linewidth": 2,
-          "transparency": 50,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "textColor": "rgba(255, 255, 255, 1)",
-          "fontSize": 14,
-          "bold": false,
-          "italic": false,
-          "extendLeft": false,
-          "extendRight": false,
-          "middleLine": {
-            "showLine": false,
-            "lineWidth": 1,
-            "lineColor": "#9c27b0",
-            "lineStyle": 2
-          },
-          "linestyle": 0,
-          "frozen": false,
-          "visible": true,
-          "text": ""
-        },
-        "selectable": true,
-        "name": "rectangle"
-      },
-      {
-        "success": true,
-        "entity_id": "gPer3r",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 3982.95,
-            "time": 1782499500
-          },
-          {
-            "price": 4118.085365829339,
-            "time": 1782761400
-          }
-        ],
+        "points": [],
         "properties": {
           "linecolor": "rgba(41, 98, 255, 1)",
           "textcolor": "#2962FF",
@@ -940,213 +172,20 @@
       },
       {
         "success": true,
-        "entity_id": "z1XEij",
+        "entity_id": "YzqLuf",
         "available_methods": [],
-        "points": [
-          {
-            "price": 3999.948333333333,
-            "time": 1782911400
-          }
-        ],
+        "points": [],
         "properties": {
-          "areaBackground": {
-            "backgroundColor": "#4caf50",
-            "fillBackground": false,
-            "transparency": 95
-          },
-          "inputs": {
-            "Bands Calculation Mode": "Standard Deviation",
-            "bands_multiplier": 1,
-            "bands_multiplier_2": 2,
-            "bands_multiplier_3": 3,
-            "calculate_stDev": true,
-            "calculate_stDev_2": false,
-            "calculate_stDev_3": false,
-            "source": "hlc3",
-            "start_time": 0
-          },
-          "styles": {
-            "LowerBand": {
-              "color": "#4caf50",
-              "display": 0,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            },
-            "LowerBand_2": {
-              "color": "#808000",
-              "display": 0,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            },
-            "LowerBand_3": {
-              "color": "#00897b",
-              "display": 0,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            },
-            "UpperBand": {
-              "color": "#4caf50",
-              "display": 0,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            },
-            "UpperBand_2": {
-              "color": "#808000",
-              "display": 0,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            },
-            "UpperBand_3": {
-              "color": "#00897b",
-              "display": 0,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            },
-            "VWAP": {
-              "color": "rgba(255, 255, 255, 1)",
-              "display": 15,
-              "linestyle": 0,
-              "linewidth": 1,
-              "plottype": 0,
-              "trackPrice": false,
-              "transparency": 0,
-              "visible": true
-            }
-          },
-          "showLabelsOnPriceScale": true,
-          "visible": true,
-          "precision": "default",
-          "frozen": false,
-          "axisLabelVisible": false
-        },
-        "selectable": true,
-        "name": "anchored_vwap"
-      },
-      {
-        "success": true,
-        "entity_id": "CkIExi",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4067.4975511302196,
-            "time": 1783585200
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(255, 235, 59, 0.246)",
-          "textcolor": "rgba(255, 235, 59, 0.3907)",
-          "linewidth": 1,
-          "linestyle": 1,
-          "extendLine": false,
-          "showTime": true,
+          "linecolor": "rgba(41, 98, 255, 1)",
+          "textcolor": "#2962FF",
+          "linewidth": 2,
+          "linestyle": 0,
+          "extendLeft": false,
+          "extendRight": false,
+          "leftEnd": 0,
+          "rightEnd": 0,
           "horzLabelsAlign": "center",
           "vertLabelsAlign": "bottom",
-          "textOrientation": "horizontal",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "text": "zona mike",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "vertical_line"
-      },
-      {
-        "success": true,
-        "entity_id": "sKNDFA",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4090.02,
-            "time": 1783566900
-          },
-          {
-            "price": 4065.6872186902397,
-            "time": 1783592700
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(255, 255, 255, 1)",
-          "textcolor": "rgba(255, 255, 255, 1)",
-          "linewidth": 1,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
-      },
-      {
-        "success": true,
-        "entity_id": "bAAKkF",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 4072.4368439662007,
-            "time": 1783560900
-          },
-          {
-            "price": 4048.1040626564404,
-            "time": 1783586700
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(255, 255, 255, 1)",
-          "textcolor": "rgba(255, 255, 255, 1)",
-          "linewidth": 1,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "right",
-          "vertLabelsAlign": "middle",
           "fontsize": 14,
           "bold": false,
           "italic": false,
