@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-17T04:53:05.672398-06:00",
-  "captured_at": "2026-07-17T04:53:05.651649-06:00",
+  "published_at": "2026-07-17T04:53:50.311786-06:00",
+  "captured_at": "2026-07-17T04:53:50.288447-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 3992.49,
+  "price": 3992.915,
   "market_memory": {
     "s10": {
-      "delta": -0.175,
-      "direction": "DOWN"
+      "delta": 0.65,
+      "direction": "UP"
     },
     "s30": {
-      "delta": 0.93,
+      "delta": 0.285,
       "direction": "UP"
     },
     "m1": {
-      "delta": 0.99,
+      "delta": 0.635,
       "direction": "UP"
     },
     "m5": {
-      "delta": -3.925,
+      "delta": -3.59,
       "direction": "DOWN"
     }
   },
@@ -63,7 +63,7 @@
         "id": "z1XEij",
         "type": "anchored_vwap",
         "bucket": "CONTEXTO",
-        "distance": 7.458,
+        "distance": 7.033,
         "min_price": 3999.948,
         "max_price": 3999.948,
         "mid_price": 3999.948,
