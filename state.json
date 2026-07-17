@@ -1,25 +1,25 @@
 {
-  "published_at": "2026-07-17T12:16:49.670568-06:00",
-  "captured_at": "2026-07-17T12:16:49.645383-06:00",
+  "published_at": "2026-07-17T12:17:33.423466-06:00",
+  "captured_at": "2026-07-17T12:17:33.397154-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4009.82,
+  "price": 4010.215,
   "market_memory": {
     "s10": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": 0.14,
+      "direction": "UP"
     },
     "s30": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": -0.42,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": 0.395,
+      "direction": "UP"
     },
     "m5": {
-      "delta": 0.0,
-      "direction": "FLAT"
+      "delta": 0.395,
+      "direction": "UP"
     }
   },
   "owner_m5": null,
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 1,
     "context_count": 1,
-    "historic_count": 15,
+    "historic_count": 16,
     "near": [
       {
         "id": "gPer3r",
@@ -63,7 +63,7 @@
         "id": "z1XEij",
         "type": "anchored_vwap",
         "bucket": "CONTEXTO",
-        "distance": 9.872,
+        "distance": 10.267,
         "min_price": 3999.948,
         "max_price": 3999.948,
         "mid_price": 3999.948,
@@ -1009,7 +1009,12 @@
         "success": true,
         "entity_id": "CkIExi",
         "available_methods": [],
-        "points_error": "Value is null",
+        "points": [
+          {
+            "price": 4067.4975511302196,
+            "time": 1783597320
+          }
+        ],
         "properties": {
           "linecolor": "rgba(255, 235, 59, 0.246)",
           "textcolor": "rgba(255, 235, 59, 0.3907)",
