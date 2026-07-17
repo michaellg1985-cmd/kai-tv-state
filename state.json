@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-17T14:09:32.936747-06:00",
-  "captured_at": "2026-07-17T14:09:32.909116-06:00",
+  "published_at": "2026-07-17T14:10:19.566941-06:00",
+  "captured_at": "2026-07-17T14:10:19.542486-06:00",
   "symbol": "OANDA:XAUUSD",
   "timeframe": "1",
-  "price": 4013.66,
+  "price": 4013.215,
   "market_memory": {
     "s10": {
-      "delta": 0.245,
-      "direction": "UP"
+      "delta": -0.305,
+      "direction": "DOWN"
     },
     "s30": {
-      "delta": 0.34,
-      "direction": "UP"
+      "delta": -0.145,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 0.39,
-      "direction": "UP"
+      "delta": -0.2,
+      "direction": "DOWN"
     },
     "m5": {
-      "delta": -0.855,
+      "delta": -0.77,
       "direction": "DOWN"
     }
   },
@@ -34,7 +34,7 @@
   "visual_context": {
     "near_count": 1,
     "context_count": 1,
-    "historic_count": 15,
+    "historic_count": 16,
     "near": [
       {
         "id": "gPer3r",
@@ -63,7 +63,7 @@
         "id": "z1XEij",
         "type": "anchored_vwap",
         "bucket": "CONTEXTO",
-        "distance": 13.712,
+        "distance": 13.267,
         "min_price": 3999.948,
         "max_price": 3999.948,
         "mid_price": 3999.948,
@@ -600,7 +600,16 @@
         "success": true,
         "entity_id": "bMpCnG",
         "available_methods": [],
-        "points_error": "Value is null",
+        "points": [
+          {
+            "price": 4680.185,
+            "time": 1777566360
+          },
+          {
+            "price": 4680.185,
+            "time": 1777907880
+          }
+        ],
         "properties": {
           "linecolor": "#808080",
           "textcolor": "#ffffff",
