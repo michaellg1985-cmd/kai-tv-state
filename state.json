@@ -1,24 +1,24 @@
 {
-  "published_at": "2026-07-18T05:40:00.812721-06:00",
-  "captured_at": "2026-07-18T05:40:00.795508-06:00",
+  "published_at": "2026-07-18T05:40:36.719812-06:00",
+  "captured_at": "2026-07-18T05:40:36.694325-06:00",
   "symbol": "INDEX:BTCUSD",
   "timeframe": "5",
-  "price": 63994.38,
+  "price": 63994.36,
   "market_memory": {
     "s10": {
-      "delta": 2.64,
-      "direction": "UP"
+      "delta": 0.0,
+      "direction": "FLAT"
     },
     "s30": {
+      "delta": -0.03,
+      "direction": "DOWN"
+    },
+    "m1": {
       "delta": 3.14,
       "direction": "UP"
     },
-    "m1": {
-      "delta": -0.83,
-      "direction": "DOWN"
-    },
     "m5": {
-      "delta": 4.04,
+      "delta": 4.02,
       "direction": "UP"
     }
   },
@@ -29,7 +29,7 @@
   "rsi": null,
   "stoch_kd": null,
   "macd_hist": null,
-  "volume_state": "HIGH",
+  "volume_state": "LOW",
   "drawings_count": 4,
   "visual_context": {
     "near_count": 0,
