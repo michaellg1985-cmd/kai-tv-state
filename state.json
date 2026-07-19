@@ -1,25 +1,25 @@
 {
-  "published_at": "2026-07-19T01:20:59.362449-06:00",
-  "captured_at": "2026-07-19T01:20:59.331897-06:00",
-  "symbol": "INDEX:BTCUSD",
-  "timeframe": "1",
-  "price": 64680.28,
+  "published_at": "2026-07-19T01:21:37.396973-06:00",
+  "captured_at": "2026-07-19T01:21:37.353980-06:00",
+  "symbol": "BITSTAMP:ETHUSD",
+  "timeframe": "5",
+  "price": 1868.03,
   "market_memory": {
     "s10": {
-      "delta": 2.31,
-      "direction": "UP"
+      "delta": -62815.52,
+      "direction": "DOWN"
     },
     "s30": {
-      "delta": 3.56,
-      "direction": "UP"
+      "delta": -62813.12,
+      "direction": "DOWN"
     },
     "m1": {
-      "delta": 3.54,
-      "direction": "UP"
+      "delta": -62808.69,
+      "direction": "DOWN"
     },
     "m5": {
-      "delta": 8.66,
-      "direction": "UP"
+      "delta": -62803.59,
+      "direction": "DOWN"
     }
   },
   "owner_m5": null,
@@ -29,220 +29,18 @@
   "rsi": null,
   "stoch_kd": null,
   "macd_hist": null,
-  "volume_state": null,
-  "drawings_count": 4,
+  "volume_state": "LOW",
+  "drawings_count": 0,
   "visual_context": {
     "near_count": 0,
     "context_count": 0,
-    "historic_count": 4,
+    "historic_count": 0,
     "near": [],
     "context": []
   },
   "drawings": {
-    "count": 4,
-    "shapes": [
-      {
-        "id": "nlYo4g",
-        "name": "trend_line"
-      },
-      {
-        "id": "8AXz1q",
-        "name": "trend_line"
-      },
-      {
-        "id": "f4sX24",
-        "name": "trend_line"
-      },
-      {
-        "id": "YzqLuf",
-        "name": "trend_line"
-      }
-    ],
-    "details": [
-      {
-        "success": true,
-        "entity_id": "nlYo4g",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 117333.67137963169,
-            "time": 1752960000
-          },
-          {
-            "price": 118073.77295959956,
-            "time": 1752993600
-          }
-        ],
-        "properties": {
-          "linecolor": "#2962FF",
-          "textcolor": "#2962FF",
-          "linewidth": 2,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "center",
-          "vertLabelsAlign": "bottom",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
-      },
-      {
-        "success": true,
-        "entity_id": "8AXz1q",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 117610.0080085158,
-            "time": 1752952800
-          },
-          {
-            "price": 118304.4539715376,
-            "time": 1752987300
-          }
-        ],
-        "properties": {
-          "linecolor": "#2962FF",
-          "textcolor": "#2962FF",
-          "linewidth": 2,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "center",
-          "vertLabelsAlign": "bottom",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
-      },
-      {
-        "success": true,
-        "entity_id": "f4sX24",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 987.5211119416344,
-            "time": 1561593660
-          },
-          {
-            "price": 41278.261386777216,
-            "time": 1857686400
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(41, 98, 255, 1)",
-          "textcolor": "#2962FF",
-          "linewidth": 2,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "center",
-          "vertLabelsAlign": "bottom",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
-      },
-      {
-        "success": true,
-        "entity_id": "YzqLuf",
-        "available_methods": [],
-        "points": [
-          {
-            "price": 15471.786099974586,
-            "time": 1666656060
-          },
-          {
-            "price": 57072.418724289586,
-            "time": 1789948800
-          }
-        ],
-        "properties": {
-          "linecolor": "rgba(41, 98, 255, 1)",
-          "textcolor": "#2962FF",
-          "linewidth": 2,
-          "linestyle": 0,
-          "extendLeft": false,
-          "extendRight": false,
-          "leftEnd": 0,
-          "rightEnd": 0,
-          "horzLabelsAlign": "center",
-          "vertLabelsAlign": "bottom",
-          "fontsize": 14,
-          "bold": false,
-          "italic": false,
-          "alwaysShowStats": false,
-          "showMiddlePoint": false,
-          "showPriceLabels": false,
-          "showPriceRange": false,
-          "showPercentPriceRange": false,
-          "showPipsPriceRange": false,
-          "showBarsRange": false,
-          "showDateTimeRange": false,
-          "showDistance": false,
-          "showAngle": false,
-          "statsPosition": 2,
-          "text": "",
-          "frozen": false,
-          "visible": true
-        },
-        "selectable": true,
-        "name": "trend_line"
-      }
-    ]
+    "count": 0,
+    "shapes": [],
+    "details": []
   }
 }
